@@ -1,0 +1,49 @@
+---
+title: "Drought Resilience of California’s Power Supply"
+# subtitle: 
+# description: 
+format: html
+# title-block-categories: true
+# title-block-banner: true
+author: 
+  - "NA"
+# author:
+#   - name: 
+#     url: 
+#     affiliation: 
+#     affiliation-url:
+# abstract: ""
+# abstract-title: ""
+categories: 
+  - "2016 White House Water Data Challenge"
+date: "2016-06-30"
+date-format: "YYYY"
+---
+
+<!-- COMMENT
+## params_NOTUSED-proj_title
+
+#### Year: params_NOTUSED-year
+
+#### Topics: params_NOTUSED-topics
+
+#### Awards: params_NOTUSED-awards
+
+#### Team Members: params_NOTUSED-team_members
+UNCOMMENT -->
+
+### Project Description:
+
+The challenge facing us was how to evaluate and present the statewide impact of the drought and water supply curtailments on the ability of the disparate fleet of California power plants to generate reliable electricity. The Governor’s Office recognized that the State Water Resources Control Boards curtailment of water supplies from the Delta and dropping groundwater levels could impact availability of water supplies. In order to meet this challenge Energy Commission staff developed a data driven results oriented approach to evaluate if and where power plants could be impacted and what could be done to mitigate impacts to the California power supply.
+ To achieve this goal, we summarized water supply and water use data for all Energy Commission jurisdictional power plants and other large power plants (100 total), which rely on various water supplies for operation. Tables and reports were produced from the data which included information on the following: 
+ • The type of water supply (surface water, groundwater, or recycled water) and water supplier for each power plant. 
+ • The average water use of each power plant.
+ • The energy generation capacity and average annual capacity factor (a descriptor of annual electricity output).
+ We summarized these key attributes and presented them on a map to add the spatial dimension of water and power distribution. Layered on this data, we added DWR’s GIS data showing land subsidence from groundwater withdrawal. These became the tools we used for informed decision making regarding drought emergency actions. An unexpected result of this effort was the demonstration that the power supply had significant drought resilience already built in, which would allow focused efforts in just several specific areas.
+ Initial development of these tools was cumbersome because of the methods used to manage data from the Energy Commission Quarterly Energy and Fuels Report program (QFER). Once management saw the results of the data compilation they embraced further use and analysis for environmental performance and energy policy reports. To further enhance data acquisition and quality, staff is also revising regulations governing data reporting from power plant operators that will allow us to better analyze water supply reliability and drought resilience.
+
+### Additional Resources
+
+- [Slides](https://drive.google.com/open?id=0B5n4IeHrVBincHlkbVVFUTJudTA)
+- <https://drive.google.com/open?id=0B5n4IeHrVBinLWVlMFNpV05IV0U>
+- <https://drive.google.com/open?id=0B5n4IeHrVBinMjRiS1FLZUtLMmc>

@@ -1,0 +1,46 @@
+---
+title: "Preliminary Analysis of Surface Water Toxicity Dataset"
+# subtitle: 
+# description: 
+format: html
+# title-block-categories: true
+# title-block-banner: true
+author: 
+  - "Travis Ludlum"
+# author:
+#   - name: 
+#     url: 
+#     affiliation: 
+#     affiliation-url:
+# abstract: ""
+# abstract-title: ""
+categories: 
+  - "2016 Data Innovation Challenge"
+date: "2016-06-30"
+date-format: "YYYY"
+---
+
+<!-- COMMENT
+## params_NOTUSED-proj_title
+
+#### Year: params_NOTUSED-year
+
+#### Topics: params_NOTUSED-topics
+
+#### Awards: params_NOTUSED-awards
+
+#### Team Members: params_NOTUSED-team_members
+UNCOMMENT -->
+
+### Project Description:
+
+I found out about this data challenge rather late and just decided to take a stab at it for fun.  The data set was fairly large, so my goal was initially to try to provide some sort of graphical representations of the data, by project / region / organism, etc. In the end due to time constraints, none of that happened, so the script only computes averages and standard deviations for the various analytes and organisms.  
+
+The full dataset or a subset of the data is read in as a CSV file, but must first be modified to remove commas.  I did this by just doing a search and replace in Excel, replacing commas with semi-colons, as I noticed many cells contained commas that would interfere with the way I split the cells in Python.  There may be a workaround to this using a CSV package in Python, but I didn’t have the time to look into that.  The script creates a mixture of classes and dictionaries, organizing data in several layers: by project, station name, organism name, and analyte.  Averages and standard deviations are computed for each project by organism name and analyte, essentially combining the data from each station.  These averages and standard deviations are written to a CSV results file and provide a very broad overview of the results of each project.  Average and standard deviation data is also available on a more in-depth level by station name.  Some projects involved the collection of samples with an initial and final reading appearing as separate entries; I did not have time to configure the script to treat these entries differently.  I also did very little data validation in terms of ignoring bad data points (I saw some -88 values) and did not attempt to fix mis-parsed data (I have a project in my results named “7:30:00”).  The script has several functions that compute date-time-values for entries, which could potentially be useful for chronologically sorting and plotting data, if a better method doesn’t exist already.
+
+
+### Additional Resources
+
+- [See slides ]()
+- [Presentation: Preliminary Analysis of Surface Water Toxicity Dataset](http://www.waterboards.ca.gov/resources/data_databases/docs/prelimanalysis_pres.mp4#)
+- [Slides: Preliminary Analysis of Surface Water Toxicity Dataset](http://www.waterboards.ca.gov/resources/data_databases/docs/prelimanalysis.pdf#)

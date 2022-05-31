@@ -1,0 +1,42 @@
+---
+title: "Surface Moisture Monitoring in Real-Time and Large Scales"
+# subtitle: 
+# description: 
+format: html
+# title-block-categories: true
+# title-block-banner: true
+author: 
+  - "Frankie Ridolfi"
+  - "Steven Hamann"
+# author:
+#   - name: 
+#     url: 
+#     affiliation: 
+#     affiliation-url:
+# abstract: ""
+# abstract-title: ""
+categories: 
+  - "2020-2021 Water Data Challenge"
+date: "2021-06-30"
+date-format: "YYYY"
+---
+
+<!-- COMMENT
+## params_NOTUSED-proj_title
+
+#### Year: params_NOTUSED-year
+
+#### Topics: params_NOTUSED-topics
+
+#### Awards: params_NOTUSED-awards
+
+#### Team Members: params_NOTUSED-team_members
+UNCOMMENT -->
+
+### Project Description:
+
+Our innovation is a real-time data collection method for field-scale (and larger) sensing of soil moisture, snowmass, and vegetation that may be used to ground-truth, calibrate, complement, and augment the current methods of estimating surface water data at these scales -- critical inputs for water markets and implementation of the SGMA, including the soon to be unveiled OpenET (evapotranspiration) platform which uses estimates from satellite imagery, not proximal measures.
+
+### Additional Resources
+
+NA

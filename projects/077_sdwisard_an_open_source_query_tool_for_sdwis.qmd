@@ -1,0 +1,48 @@
+---
+title: "sdwisard - an open source query tool for SDWIS"
+# subtitle: 
+# description: 
+format: html
+# title-block-categories: true
+# title-block-banner: true
+author: 
+  - "Rich Pauloo"
+  - "Sadie Gill"
+  - "Emanuel Rodriguez"
+# author:
+#   - name: 
+#     url: 
+#     affiliation: 
+#     affiliation-url:
+# abstract: ""
+# abstract-title: ""
+categories: 
+  - "2020-2021 Water Data Challenge"
+  - "Honorable Mention 🏆"
+date: "2021-06-30"
+date-format: "YYYY"
+---
+
+<!-- COMMENT
+## params_NOTUSED-proj_title
+
+#### Year: params_NOTUSED-year
+
+#### Topics: params_NOTUSED-topics
+
+#### Awards: params_NOTUSED-awards
+
+#### Team Members: params_NOTUSED-team_members
+UNCOMMENT -->
+
+### Project Description:
+
+The sdwisard R package is an easy-to-use, open-source query tool for California drinking water quality data in the SDWIS database that enables reproducible analysis.
+
+### Additional Resources
+
+- [Project Website](https://caopenwater.github.io/sdwisard/)
+
+- [Project Github](https://github.com/CAopenwater/sdwisard)
+
+- [2 minute video explanation](https://youtu.be/BlXSTWCk5O8)

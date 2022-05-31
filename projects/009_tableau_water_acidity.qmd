@@ -1,0 +1,43 @@
+---
+title: "Tableau: Water Acidity"
+# subtitle: 
+# description: 
+format: html
+# title-block-categories: true
+# title-block-banner: true
+author: 
+  - "Gustavo Iturriaga"
+  - "Eduardo Parra"
+# author:
+#   - name: 
+#     url: 
+#     affiliation: 
+#     affiliation-url:
+# abstract: ""
+# abstract-title: ""
+categories: 
+  - "2016 Data Innovation Challenge"
+date: "2016-06-30"
+date-format: "YYYY"
+---
+
+<!-- COMMENT
+## params_NOTUSED-proj_title
+
+#### Year: params_NOTUSED-year
+
+#### Topics: params_NOTUSED-topics
+
+#### Awards: params_NOTUSED-awards
+
+#### Team Members: params_NOTUSED-team_members
+UNCOMMENT -->
+
+### Project Description:
+
+Our entry will consist of three different visualizations created with Tableau. The Viz’s will be accessible through the internet on our company server and the presentation will have emphasis on expressing the abilities tableau has to offer. With data found on the Open Green Gov website and other public websites, we will show how tableau can illustrate water pH levels found in California. We will also show how water is becoming more acidic over time using data from Hawaiian oceans and explain some implications this could bring to our planet in the future.
+
+### Additional Resources
+
+- [Application: Water Acidity](https://tableau.stg.tabordasolutions.net/t/WaterBoardDataInnovationChallenge/views/WaterBoardDataInnovationChallenge/WaterAcidity?%3Aembed=y&%3AshowShareOptions=true&%3Adisplay_count=no&%3AshowVizHome=no#1)
+- [Slides: Tableau: Water Acidity](http://www.waterboards.ca.gov/resources/data_databases/docs/wateracidity.pdf#)

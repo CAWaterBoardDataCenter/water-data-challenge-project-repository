@@ -1,0 +1,80 @@
+title,team_name,team_members,team_members_url,repo,topics,year,awards,description
+Blue Conduit,BlueConduit,Dr. Eric Schwartz | Dr. Jacob Abernethy | Jared Webb | Ian Robinson | Brigadier General (ret.) Michael McDaniel,Dr. Eric Schwartz | Dr. Jacob Abernethy | Jared Webb | Ian Robinson | Brigadier General (ret.) Michael McDaniel,,Infrastructure | Quality,2019,,Using AI to reduce uncertainty of lead service line replacement
+Spotting the Drought,Spotting the Drought,Siu Lim Lee | Lynn Gao,Siu Lim Lee | Lynn Gao,,Availability,2019,,[Project Website](https://californiadrought.shinyapps.io/WaterWells/)
+California Safe Drinking Water,Code for America Open Oakland Water,Aaron Hans | Cori Gaul | Michael Norelli | Rucker Alex | Alex Aruj | Sean Pennino,Aaron Hans | Cori Gaul | Michael Norelli | Rucker Alex | Alex Aruj | Sean Pennino,https://github.com/openoakland/clean-water,Quality,2019,Enduring Civic Engagement,[Project website](http://water.openoakland.org/)
+Central Valley Well Vulnerability,"function(water, data) { science }",Rich Pauloo | Amanda Fencl | Hervé Guillon | Alvar Escriva-Bou,[Rich Pauloo](https://richpauloo.github.io) | Amanda Fencl | Hervé Guillon | Alvar Escriva-Bou,https://github.com/waterdatacollaborative/FunctionWaterDataScience_Central-Valley-Well-Vulnerability,Groundwater,2018,Most data-licious,"Studying wells in the Central Valley in California.
+
+Additional resources:
+
+- [Project webpage](https://richpauloo.github.io/flexdash.html)
+- [Repository](https://github.com/richpauloo/cawdc)"
+DAMMS: Dam Assessment Mapping and Safety System,Dammed if you do,Daniel Siegel | Colin King-Bailey | Jessica Rahman | Dan Constable,Daniel Siegel | Colin King-Bailey | Jessica Rahman | Dan Constable,https://github.com/waterdatacollaborative/Dam-Safety-2018,Infrastructure,2018,Team spirit and collaboration,"Communicating dam safety through visualizations, building support for change
+
+Additional resources:
+
+- [Project webpage](https://dam-safety.github.io/damss)"
+Drinking Water Contaminant Classification,,Nicole Look,[Nicole Look](https://github.com/nmlook),https://github.com/waterdatacollaborative/NicoleLook_Drinking-Water-Contaminant-Classification,Quality | Infrastructure,2018,,
+Statewide Interactive Map of Lead in Drinking Water,California Get the Lead Out!,Laura Deehan | Sadie Gill | Daniel Dufour | Victoria Mak,Laura Deehan | Sadie Gill | Daniel Dufour | Victoria Mak,https://github.com/GeoSurge/get-the-lead-out-map,Quality,2019,Change at Scale,"Lead Levels in San Francisco Schools San Francisco Unified School District tested the school's drinking water for lead last year. This map shows the highest lead levels detected at each school based on multiple sample sites and dates.
+
+There is no safe level of lead, especially for children. Even small amounts can lower IQ. Damage from lead exposure is irreversible. 
+
+Take action with CALPIRG's ""[Get The Lead Out:Back to School Toolkit](https://calpirg.org/resources/caf/get-lead-out-back-school-toolkit).""
+
+Additional resources:
+
+- [2018 Project](https://waterdatacollaborative.github.io/project/get-the-lead-out/)
+- [Project webpage](https://geosurge.github.io/get-the-lead-out-map/)"
+Get the lead out!,SF No Lead,Laura Deehan | Sadie Gill | Lo Benichou,Laura Deehan | Sadie Gill | Lo Benichou,https://github.com/waterdatacollaborative/Get-the-Lead-Out,Quality,2018,People's choice | Ready to go,"Lead Levels in San Francisco Schools San Francisco Unified School District tested the school's drinking water for lead last year. This map shows the highest lead levels detected at each school based on multiple sample sites and dates.
+
+There is no safe level of lead, especially for children. Even small amounts can lower IQ. Damage from lead exposure is irreversible. 
+
+Take action with CALPIRG's ""Get The Lead Out:Back to School Toolkit.""
+
+Additional resources:
+
+- [Project webpage](https://lobenichou.github.io/waterChallenge/)
+- [2019 Project](https://waterdatachallenge.github.io/project/get-the-lead-out-2019/)"
+Identifying high-risk communities,Code4Sac,Jacqueline Barkoski | Chuan-Shin Chong,Jacqueline Barkoski | Chuan-Shin Chong,,Affordability,2018,Rising Innovator,"Identifying communities with a high risk of shortage using a multifactor vulnerability score
+
+Additional resources:
+
+- [Project webpage](http://arcg.is/19OXPW)"
+Hows My Water?,,Hadrien N Picq,[Hadrien N Picq](https://hp-nunes.github.io/),https://github.com/waterdatacollaborative/HowsMyWater-DataAnalysis,Quality,2018,,
+Jata Water Solution,The Jata Solutions,Junlin Chen | Jingjua Yao | Zini Zhu | Caidan Yang | Jiajia Jing,Junlin Chen | Jingjua Yao | Zini Zhu | Caidan Yang | Jiajia Jing,https://github.com/jyao8112/CA-Water-Contest.git,Tools | Quality,2019,Rising Innovator,Empowering Community Residents with One Integrated Information Platform and Two-Way Data Communication
+Open Water Rate Specification (OWRS),ARGO,Patrick Atwater | Christopher Tull | David Marulli,[Christopher Tull](http://christophertull.org) | Patrick Atwater | David Marulli,https://github.com/waterdatacollaborative/Open-Water-Rate-Specification-2018,Tools | Affordability,2018,Moonshot,"Additional resources:
+
+- [Project webpage](https://github.com/California-Data-Collaborative)"
+"PFAS– We Eat It, We Drink It, We Breathe It",PFAS Away,Melissa Salazar,Melissa Salazar,https://github.com/CAWaterBoardDataCenter/PFAS-Analysis-and-Intervention,Quality,2019,People's choice,[Project Webpage](https://meldataaa.shinyapps.io/PFAS_Analysis_and_Intervention/)
+Prediction and Visualization of Reported Units,Lovelace Ladies,Anna Waldron | Elena Smith,Anna Waldron | Elena Smith,https://github.com/waterdatacollaborative/JPLCivicHackers_Prediction-Visualization-Reported-Units,Tools,2018,Imagine H2O,"Saving staff time by building a model that identifies Electronic Annual Reports (EARs) with errors. Can we learn more about contributing factors through geographic visualization?
+
+Additional resources:
+
+- [Project webpage](https://github.com/ozzysChiefDataScientist/water)"
+Source Water Time Machine,"Know Your Source, Of Course!",Juliana Spector,Juliana Spector,https://github.com/julianaspector/SourceWaterTimeMachine,Infrastructure,2019,,[Project website](https://jjspector.shinyapps.io/source_water_time_machine/)
+Better Data Quality for Better Water Equity: Transforming EAR data,,Juan Manfredi,[Juan Manfredi](https://github.com/jmanfredi),https://github.com/waterdatacollaborative/Water-Usage-and-Production,Tools,2018,,"Every year, the State of California gathers data about water usage and production from all of its public water systems via Electronics Annual Reports (EARs). For instance, consider Dataset #8 in the Recommended Challenge Datasets: this dataset lists information taken from the EAR for each public water system (PWS) for each month of the year, including water production/delivery, water quality, and rates. In principle, this dataset is a treasure-trove of knowledge for government employees seeking to study, optimize, and understand water distribution in California.
+
+Despite the effort expended to gather this data, it rarely gets used in analyses. Even though the dataset contains valuable insight about water use, its clunky format makes even simple analysis questions (e.g. how does water production change in a particular PWS over time?) difficult to ask. Furthermore, the low data quality (e.g. missing fields) provides other obstacles.
+
+This repository includes Jupyter Python notebooks to address both the format and quality problems in the EAR dataset. We intend the users of this repository to be state and local government employees (or perhaps simply interested citizens) who wish to understand how, when, and where water is used in California."
+Visualizing Exceedance of Contaminants,OpenOakland,Aaron Hans | Robert Gibboni | Rucker Alex | Yotam Hacohen,Aaron Hans | Robert Gibboni | Rucker Alex | Yotam Hacohen,https://github.com/waterdatacollaborative/OpenOakland_Exceedence-Levels-Vis,Quality,2018,Most engaging by design,"Visualizing exceedance levels of water system contaminants.
+
+Additional resources:
+
+- [Project webpage](https://aaronhans.github.io/water-challenge/html/index.html)"
+Water Quality Portal for California,"function(water, data) { science }",Rich Pauloo | Lindsay Poirier | Andrew Essin | Avery Kreuger,[Rich Pauloo](https://richpauloo.github.io) | Lindsay Poirier | Andrew Essin | Avery Kreuger,https://github.com/caccr/cawdc_2019,Quality,2019,Ready to go,[Project webpage](https://caccr.github.io/)
+Water Rate Structures– Do They Make Cents?,Econ on Tap,Lauren Adams | Benjamin Dawson | Ian Morelan | Kyle Onda | Wai Yan Siu | Joakim Weill,Lauren Adams | Benjamin Dawson | Ian Morelan | Kyle Onda | Wai Yan Siu | Joakim Weill,,Affordability,2019,Most data-licious,[Project Website](https://ianartmor.github.io/ca_owrs/)
+Water Scarcity Clock,World Data Lab & International Institute for Applied Systems Analysis,Sara Biazar | Iskra Ušćumlić | Thomas Mitterling | Peter Burek | Peter Greve | Robert Burtscher | Jasmin Baier,Sara Biazar | Iskra Ušćumlić | Thomas Mitterling | Peter Burek | Peter Greve | Robert Burtscher | Jasmin Baier,,Availability,2019,,[Project Website](https://www.worldwater.io/)
+Water: Towards True Affordability,,Ludovico Bianchi,[Ludovico Bianchi](https://ludob.com),https://github.com/waterdatacollaborative/Water-Towards-True-Affordability,Affordability,2018,,"Communities that are economically disadvantaged are most vulnerable to high water prices, and safety and availability issues.
+
+This project combines information from the Public Water Services (PWS), US Census data and water utility rates to study the affordability of drinking water in California.
+
+To fill the gaps in the existing data and engage and empowered the communities most affected, a proof-of-concept implementation for a survey is included.
+
+Additional resources:
+
+- [Project webpage](https://cawc-towardstrueaffordability.netlify.com/)"
+WeedsViz,WeedsViz,Junjun Dong | Qingping Hou,Junjun Dong | Qingping Hou,https://github.com/junjunjd/WeedsViz,Quality,2019,,"Delta Region Aquatic Invasive Plant Control Visualization
+
+[Project Website](https://junjunjd.github.io/WeedsViz/)"
+The WeTap App,WeTap,Evelyn Wendel | Aaron Hans | Susan Wrenn | Jack Sahl | Caleb Rabinowitz | Charles Ellis | Adam Western,Evelyn Wendel | Aaron Hans | Susan Wrenn | Jack Sahl | Caleb Rabinowitz | Charles Ellis | Adam Western,,Quality | Infrastructure,2019,Moonshot,[Project Webpage](http://wetap.org/)
+Water Quality Explorer,,,,https://github.com/waterdatacollaborative/WQ-Explorer-2016,Quality,2016,Winner,

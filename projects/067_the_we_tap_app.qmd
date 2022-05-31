@@ -1,0 +1,50 @@
+---
+title: "The WeTap App"
+# subtitle: 
+# description: 
+format: html
+# title-block-categories: true
+# title-block-banner: true
+author: 
+  - "Evelyn Wendel"
+  - "Aaron Hans"
+  - "Susan Wrenn"
+  - "Jack Sahl"
+  - "Caleb Rabinowitz"
+  - "Charles Ellis"
+  - "Adam Western"
+# author:
+#   - name: 
+#     url: 
+#     affiliation: 
+#     affiliation-url:
+# abstract: ""
+# abstract-title: ""
+categories: 
+  - "2019 Water Data Challenge"
+  - "Moonshot 🏆"
+  - "Topic: Quality"
+  - "Topic: Infrastructure"
+date: "2019-06-30"
+date-format: "YYYY"
+---
+
+<!-- COMMENT
+## params_NOTUSED-proj_title
+
+#### Year: params_NOTUSED-year
+
+#### Topics: params_NOTUSED-topics
+
+#### Awards: params_NOTUSED-awards
+
+#### Team Members: params_NOTUSED-team_members
+UNCOMMENT -->
+
+### Project Description:
+
+[Project Webpage](http://wetap.org/)
+
+### Additional Resources
+
+NA

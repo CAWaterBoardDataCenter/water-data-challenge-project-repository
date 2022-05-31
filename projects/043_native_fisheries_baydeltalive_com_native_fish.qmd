@@ -1,0 +1,48 @@
+---
+title: "Native Fisheries (Baydeltalive.com: Native Fisheries Monitoring in the Sacramento San Joaquin Delta)"
+# subtitle: 
+# description: 
+format: html
+# title-block-categories: true
+# title-block-banner: true
+author: 
+  - "NA"
+# author:
+#   - name: 
+#     url: 
+#     affiliation: 
+#     affiliation-url:
+# abstract: ""
+# abstract-title: ""
+categories: 
+  - "2016 White House Water Data Challenge"
+date: "2016-06-30"
+date-format: "YYYY"
+---
+
+<!-- COMMENT
+## params_NOTUSED-proj_title
+
+#### Year: params_NOTUSED-year
+
+#### Topics: params_NOTUSED-topics
+
+#### Awards: params_NOTUSED-awards
+
+#### Team Members: params_NOTUSED-team_members
+UNCOMMENT -->
+
+### Project Description:
+
+The fisheries Monitoring dashboards were created to facilitate monitoring that informs real time water operations. The fisheries data is an aggregate of local, state, and federal efforts to monitor fish migration within and upstream of the Delta. The fisheries monitoring data is coupled with real-time hydrodynamic, real-time water quality and forecasted meteorological conditions. 
+ 
+ Data in this dashboard is assembled according to Reasonable and Prudent Alternatives (RPA) as outlined by Biological Opinions directed by NMFS NOAA and USFWS. The RPA’s mandate monitoring of state and federally threatened and endangered fish species (in addition to other species) and related environmental conditions. The dashboards are a decision support tool for the following groups: 
+ • Delta Operations for Salmon and Sturgeon (DOSS) is an interagency technical advisory team who closely monitors conditions to balance Delta Operations and protecting listed fish species. Through the Biological Opinions DOSS has a series of Triggers and Indices which alert fish migration and indicate a need for changes to Delta Operations. 
+ • The Delta Conditions Team (DCT) is comprised of local, state, and federal government representatives; water contractors; and NGO’s. The DCT meets weekly to review current conditions (fish, turbidity, flow, weather, temperature, and exports).
+ • The Smelt Working Group (SWG) focuses on conditions related to delta and longfin smelt. The team reviews conditions and advises changes in Delta Operations to reduce smelt mortality. A key indicator for smelt migration is increases in turbidity in the Delta.
+ • General Water Operations.
+
+### Additional Resources
+
+- [Slides](https://drive.google.com/open?id=0B5n4IeHrVBineUxWR25HTWNTZzQ)
+- <www.baydeltalive.com/djfmp> ** Please navigation the data dashboards using the sub navigation: Triggers and Indices, RBDD, DJFMP Highlights, DJFMP Details, Water Quality, Salvage, NOAA Forecasts, Visualizations

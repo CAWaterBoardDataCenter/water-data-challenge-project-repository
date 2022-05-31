@@ -1,0 +1,48 @@
+---
+title: "Prediction and Visualization of Reported Units"
+# subtitle: 
+# description: 
+format: html
+# title-block-categories: true
+# title-block-banner: true
+author: 
+  - "Anna Waldron"
+  - "Elena Smith"
+# author:
+#   - name: 
+#     url: 
+#     affiliation: 
+#     affiliation-url:
+# abstract: ""
+# abstract-title: ""
+categories: 
+  - "2018 Water Data Challenge"
+  - "Imagine H2O 🏆"
+  - "Topic: Tools"
+date: "2018-06-30"
+date-format: "YYYY"
+---
+
+<!-- COMMENT
+## params_NOTUSED-proj_title
+
+#### Year: params_NOTUSED-year
+
+#### Topics: params_NOTUSED-topics
+
+#### Awards: params_NOTUSED-awards
+
+#### Team Members: params_NOTUSED-team_members
+UNCOMMENT -->
+
+### Project Description:
+
+Saving staff time by building a model that identifies Electronic Annual Reports (EARs) with errors. Can we learn more about contributing factors through geographic visualization?
+
+Additional resources:
+
+- [Project webpage](https://github.com/ozzysChiefDataScientist/water)
+
+### Additional Resources
+
+- [Project Repository](https://github.com/waterdatacollaborative/JPLCivicHackers_Prediction-Visualization-Reported-Units)

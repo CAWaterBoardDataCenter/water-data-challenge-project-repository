@@ -1,0 +1,44 @@
+---
+title: "Team Athena Intelligence"
+# subtitle: 
+# description: 
+format: html
+# title-block-categories: true
+# title-block-banner: true
+author: 
+  - "NA"
+# author:
+#   - name: 
+#     url: 
+#     affiliation: 
+#     affiliation-url:
+# abstract: ""
+# abstract-title: ""
+categories: 
+  - "2016 White House Water Data Challenge"
+date: "2016-06-30"
+date-format: "YYYY"
+---
+
+<!-- COMMENT
+## params_NOTUSED-proj_title
+
+#### Year: params_NOTUSED-year
+
+#### Topics: params_NOTUSED-topics
+
+#### Awards: params_NOTUSED-awards
+
+#### Team Members: params_NOTUSED-team_members
+UNCOMMENT -->
+
+### Project Description:
+
+Our submission is a non-opensource Data Visualization and Insight that combines data from dozens of agencies from various public sources to visualize the connections between water sources (reservoirs, dams), water distribution (aqueducts, canals, rivers & streams) and water utilization (hydro electric facilities). 
+ 
+ In the dashboard, the data can be "pivoted" by clicking on various spatially displayed data. Click on the hydro electric facility and the specific reservoirs, canals and streams associated with the facility are displayed, along with month to month data related to storage status of the associated reservoirs.
+
+### Additional Resources
+
+- [Slides](https://drive.google.com/open?id=0B5n4IeHrVBinTU1vcnZZODNKSVk)
+- <http://project-athena.com/ca-water-data-challenge>

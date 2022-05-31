@@ -1,0 +1,45 @@
+---
+title: "California Drought Dashboard"
+# subtitle: 
+# description: 
+format: html
+# title-block-categories: true
+# title-block-banner: true
+author: 
+  - "NA"
+# author:
+#   - name: 
+#     url: 
+#     affiliation: 
+#     affiliation-url:
+# abstract: ""
+# abstract-title: ""
+categories: 
+  - "2016 White House Water Data Challenge"
+date: "2016-06-30"
+date-format: "YYYY"
+---
+
+<!-- COMMENT
+## params_NOTUSED-proj_title
+
+#### Year: params_NOTUSED-year
+
+#### Topics: params_NOTUSED-topics
+
+#### Awards: params_NOTUSED-awards
+
+#### Team Members: params_NOTUSED-team_members
+UNCOMMENT -->
+
+### Project Description:
+
+During drought conditions, some of California’s native fish and other freshwater species do not get enough water to survive. In order to provide more water for fish and other species, The Nature Conservancy and other organizations can pay water users to keep the water in the streams and reservoirs rather than diverting it. Stream conditions vary across the state and over time, making it difficult to know where best to work. The California Drought Dashboard is an open source decision support tool that uses real-time open data on stream flow conditions to show the streams most stressed by drought. It also provides a Water for Fish tool that allows users to zero in on the streams that 1) have historically low flow conditions, 2) have the most fish and other freshwater species, and 3) have the best enabling conditions to purchase water for fish. With this tool, conservation organizations and water managers can determine the best locations to invest time and money to help make California’s native fish and other freshwater species more resilient to drought. 
+ 
+ The Drought Dashboard is based on the concept that native fish and other freshwater species are adapted to the historical flow conditions in a stream or river. If flow conditions drop substantially below historical average conditions, it is likely to cause stress to the native species. We are using the U.S. Geological Service stream flow data for over 200 stream gages in the state with long historical records to estimate if the current weekly average flow is above or below normal for this time of year. Using Tableau Public’s data visualization capabilities, we bring this information to the user in such a way to get an overview of the conditions across the state, as well as the ability to zero in on an individual stream. We then combine this information we compiled as part of research report that indicates key strategies to focus on to get water to fish, and which streams contain the highest diversity of fish and other freshwater species. All of the data used in the analysis are open data and can be downloaded freely directly from the Drought Dashboard.
+
+### Additional Resources
+
+- [Slides](https://drive.google.com/open?id=0B5n4IeHrVBindmhfNjZCTWpJMTA)
+- <https://public.tableau.com/profile/kklausmeyer#!/vizhome/CaliforniaDroughtDashboard/Dashboard>
+- <https://github.com/kklausmeyer/Drought_Dashboard>

@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  twitter-card: true
+  opengraph: true
+  title: "CA Water Data Challenge Repository"
+  navbar:
+    background: primary
+    logo: 'images/Data_Bear.png'
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+    right:
+      - icon: github
+        href: https://github.com/CAWaterBoardDataCenter
+
+format:
+  html:
+    # theme: cosmo
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+
+editor: visual
+

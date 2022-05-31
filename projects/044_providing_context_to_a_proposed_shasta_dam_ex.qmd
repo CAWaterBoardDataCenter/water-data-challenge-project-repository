@@ -1,0 +1,45 @@
+---
+title: "Providing Context to a Proposed Shasta Dam Expansion"
+# subtitle: 
+# description: 
+format: html
+# title-block-categories: true
+# title-block-banner: true
+author: 
+  - "Andrew Tom"
+  - "Bobby Miyashiro"
+  - "Jason Leung"
+  - "Judy Chen"
+# author:
+#   - name: 
+#     url: 
+#     affiliation: 
+#     affiliation-url:
+# abstract: ""
+# abstract-title: ""
+categories: 
+  - "2016 White House Water Data Challenge"
+date: "2016-06-30"
+date-format: "YYYY"
+---
+
+<!-- COMMENT
+## params_NOTUSED-proj_title
+
+#### Year: params_NOTUSED-year
+
+#### Topics: params_NOTUSED-topics
+
+#### Awards: params_NOTUSED-awards
+
+#### Team Members: params_NOTUSED-team_members
+UNCOMMENT -->
+
+### Project Description:
+
+California’s recent drought has placed unprecedented demands on our freshwater resources, renewing enthusiasm for surface water infrastructure investments such as raising dams to capture more water in wet years. Using historical data of storage levels and inflows of Shasta Dam, our group wanted to estimate how successful the Bureau of Reclamation’s expansion of Shasta Dam would be. We graphed past patterns of data and modeled potential future scenarios. Our entry is in the categories of data visualization and insights and Decision Support, Data Sharing and Information Communication Tools.
+
+### Additional Resources
+
+- [Slides](https://drive.google.com/file/d/0B5n4IeHrVBinaWRleWZ1QVJRZ0k/view?resourcekey=0-eZCjxx_PJjVAxJ_nnHIdXA)
+- <http://storageaf.wixsite.com/shastadam>

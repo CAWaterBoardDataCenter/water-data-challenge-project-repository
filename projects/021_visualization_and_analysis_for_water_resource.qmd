@@ -1,0 +1,44 @@
+---
+title: "Visualization and Analysis for Water Resources Time-Series Data"
+# subtitle: 
+# description: 
+format: html
+# title-block-categories: true
+# title-block-banner: true
+author: 
+  - "NA"
+# author:
+#   - name: 
+#     url: 
+#     affiliation: 
+#     affiliation-url:
+# abstract: ""
+# abstract-title: ""
+categories: 
+  - "2016 White House Water Data Challenge"
+date: "2016-06-30"
+date-format: "YYYY"
+---
+
+<!-- COMMENT
+## params_NOTUSED-proj_title
+
+#### Year: params_NOTUSED-year
+
+#### Topics: params_NOTUSED-topics
+
+#### Awards: params_NOTUSED-awards
+
+#### Team Members: params_NOTUSED-team_members
+UNCOMMENT -->
+
+### Project Description:
+
+Today’s technology facilitates rapid data collection and the ability to store copious amounts of data. This data, which includes multi-variate attributes and can span many years, contains a wealth of information, but transforming this vast amount of data into actionable results can be problematic. Most 2D and 3D visualization techniques are adequate for basic analysis but fall short when one needs to analyze both conspicuous and subtle data patterns over time.
+ 
+ These expansive datasets can be visualized by harnessing the power of the unique raster time-series visualization method. This method reveals trends across the entire temporal spectrum, from seconds to weeks to years. By viewing water resource datasets through this new lens, a more thorough understanding of historic, current and future water resource challenges is achieved. The following project demonstrates the benefits of the raster time-series visualization approach.
+
+### Additional Resources
+
+- [Slides](https://drive.google.com/open?id=0B5n4IeHrVBindXR5bGt4cXkwbkE)
+- <https://drive.google.com/open?id=0B5n4IeHrVBinYWR6SC16cEFHQkk>

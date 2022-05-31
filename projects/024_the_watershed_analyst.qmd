@@ -1,0 +1,45 @@
+---
+title: "The Watershed Analyst"
+# subtitle: 
+# description: 
+format: html
+# title-block-categories: true
+# title-block-banner: true
+author: 
+  - "NA"
+# author:
+#   - name: 
+#     url: 
+#     affiliation: 
+#     affiliation-url:
+# abstract: ""
+# abstract-title: ""
+categories: 
+  - "2016 White House Water Data Challenge"
+date: "2016-06-30"
+date-format: "YYYY"
+---
+
+<!-- COMMENT
+## params_NOTUSED-proj_title
+
+#### Year: params_NOTUSED-year
+
+#### Topics: params_NOTUSED-topics
+
+#### Awards: params_NOTUSED-awards
+
+#### Team Members: params_NOTUSED-team_members
+UNCOMMENT -->
+
+### Project Description:
+
+The Watershed Analyst is an online graphical interface that makes a complex and powerful dataset useful for water and biodiversity resource managers. The Watershed Analyst enables improved understanding of changes in climate and hydrologic patterns in watersheds for purposes such as: evaluating threats to water supply and biodiversity, planning for future extremes (drought and flood events), and prioritizing watershed restoration action. With the Watershed Analyst users can compare modeled future impacts of climate change to historic patterns for a chosen watershed and across watersheds, and create dynamic graphs and summaries to use in reports and projects. Graphical outputs include: 1) an annual Time Series Graph that allows exploration of annual patterns as well as longer-term trends; 2) a dynamic “Water Balance Diagram” that presents all components of the water balance to deepen understanding of watershed function on an annual basis or broader time scales; and 3) monthly plots of individual variables for direct comparisons of historical and projected future conditions. The graphs and data can be downloaded for further custom analyses or aggregation into larger watersheds by advanced users. The Watershed Analyst is currently in beta release focusing on the San Francisco Bay Area, with the plan to refine and expand the tool for hydrologic California.
+ 
+ The underlying data set is the California Basin Characterization Model (BCM), a hydrologic model developed by the USGS California Water Science Center that calculates water balance on a monthly time step using precipitation, temperature, topography, soils, and bedrock geology. 270m resolution outputs include the components of a watershed's water balance: surface runoff, groundwater recharge, actual evapotranspiration, soil storage, and climatic water deficit. 18 climate futures are available, chosen to represent the full range of responses from more than 100 climate model and emission scenario combinations. The BCM is being used by numerous researchers and managers across California as a basis for evaluating the impacts of projected change and as an input to biogeographic modeling, including state agencies such as California Department of Water Resources and California Department of Fish and Wildlife, and regional resource managers such as Sonoma County Water Agency and US Fish & Wildlife Service Refuges. For more information on the BCM, see http://climate.calcommons.org/bcm.
+
+### Additional Resources
+
+- [Slides](https://drive.google.com/open?id=0B5n4IeHrVBinVEF4OWtrRFZaRHc)
+- <http://climate.calcommons.org/tbc3/sf-bay-watershed-analyst>
+- <https://vimeo.com/190052456>

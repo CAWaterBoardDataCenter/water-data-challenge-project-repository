@@ -1,0 +1,47 @@
+---
+title: "Exploring climate change through RainSphere"
+# subtitle: 
+# description: 
+format: html
+# title-block-categories: true
+# title-block-banner: true
+author: 
+  - "NA"
+# author:
+#   - name: 
+#     url: 
+#     affiliation: 
+#     affiliation-url:
+# abstract: ""
+# abstract-title: ""
+categories: 
+  - "2016 White House Water Data Challenge"
+date: "2016-06-30"
+date-format: "YYYY"
+---
+
+<!-- COMMENT
+## params_NOTUSED-proj_title
+
+#### Year: params_NOTUSED-year
+
+#### Topics: params_NOTUSED-topics
+
+#### Awards: params_NOTUSED-awards
+
+#### Team Members: params_NOTUSED-team_members
+UNCOMMENT -->
+
+### Project Description:
+
+A new user-friendly climate data exploration tool called RainSphere (http://rainsphere.eng.uci.edu/), developed by the Center for Hydrometeorology and Remote Sensing (CHRS), is designed for use in a range of scientific studies and applications as well as to aid in the education of the general public and to promote independent inquisition and discovery of climate studies.
+ Over 33 years of retrospective global precipitation estimates have been provided via the Precipitation Estimation from Remotely Sensed Information using Artificial Neural Networks - Climate Data Record (PERSIANN-CDR) for visualization on RainSphere. In addition, projections of future precipitation from several carbon emission scenarios from the Intergovernmental Panel on Climate Change (IPCC) Coupled Model Intercomparison Project, Phase 5 (CMIP5) are also available for visualization with the CHRS RainSphere interface.
+ Users are able to easily customize their investigations of historical precipitation estimates and future projections through automatically generated analysis products including time series, spatial plots, and basic trend analysis. Easy-to-use browsing capabilities allow the global data to swiftly be divided into regions of interest by country, political division (e.g. province/state), continental basin, major basin, tributary basin, watershed or a highly localized, searchable location. The tool automatically generates summarized reports with information about the selected area and also allows users to download any data and/or statistics extracted after browsing. CHRS RainSphere allows the data to speak for itself in a way that is easily understandable by the public in order to increase the number of informed participants in the conversation of climate and climate variability. RainSphere can be used to explore rainfall trends across spatial scales over California such as the severe drought in 2013. 
+ Lastly, our strategy to provide rainfall information to various user communities is to make it as painless as possible and to not leave users with the task of learning how to use the site by trial and error. For this reason, a six minute video tutorial is prepared and made available at https://www.youtube.com/watch?v=eI2-f88iGlY
+
+### Additional Resources
+
+- [Slides](https://drive.google.com/file/d/0B_SI-qUI02kYcXVzQ3BNN0Q4Mm8/view?usp=sharing)
+- <http://rainsphere.eng.uci.edu/>
+- <https://www.youtube.com/watch?v=eI2-f88iGlY>
+- <http://journals.ametsoc.org/doi/pdf/10.1175/BAMS-D-16-0036.1>

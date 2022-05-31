@@ -1,0 +1,42 @@
+---
+title: "Source Water Time Machine"
+# subtitle: 
+# description: 
+format: html
+# title-block-categories: true
+# title-block-banner: true
+author: 
+  - "Juliana Spector"
+# author:
+#   - name: 
+#     url: 
+#     affiliation: 
+#     affiliation-url:
+# abstract: ""
+# abstract-title: ""
+categories: 
+  - "2019 Water Data Challenge"
+  - "Topic: Infrastructure"
+date: "2019-06-30"
+date-format: "YYYY"
+---
+
+<!-- COMMENT
+## params_NOTUSED-proj_title
+
+#### Year: params_NOTUSED-year
+
+#### Topics: params_NOTUSED-topics
+
+#### Awards: params_NOTUSED-awards
+
+#### Team Members: params_NOTUSED-team_members
+UNCOMMENT -->
+
+### Project Description:
+
+[Project website](https://jjspector.shinyapps.io/source_water_time_machine/)
+
+### Additional Resources
+
+- [Project Repository](https://github.com/julianaspector/SourceWaterTimeMachine)

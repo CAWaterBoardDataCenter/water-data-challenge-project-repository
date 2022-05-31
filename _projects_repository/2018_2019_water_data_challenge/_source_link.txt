@@ -1,0 +1,5 @@
+Website: https://waterdatacollaborative.github.io/project/
+
+Website Repository: https://github.com/waterdatacollaborative/waterdatacollaborative.github.io
+
+Source File Repository: https://github.com/andyjcho/wadaco-website-hugo-source/tree/master/content/project

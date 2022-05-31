@@ -1,0 +1,44 @@
+---
+title: "Bay Area Urban Water System Barcode"
+# subtitle: 
+# description: 
+format: html
+# title-block-categories: true
+# title-block-banner: true
+author: 
+  - "NA"
+# author:
+#   - name: 
+#     url: 
+#     affiliation: 
+#     affiliation-url:
+# abstract: ""
+# abstract-title: ""
+categories: 
+  - "2016 White House Water Data Challenge"
+date: "2016-06-30"
+date-format: "YYYY"
+---
+
+<!-- COMMENT
+## params_NOTUSED-proj_title
+
+#### Year: params_NOTUSED-year
+
+#### Topics: params_NOTUSED-topics
+
+#### Awards: params_NOTUSED-awards
+
+#### Team Members: params_NOTUSED-team_members
+UNCOMMENT -->
+
+### Project Description:
+
+The Bay Area Urban Water System Barcode is a visualization of the numerous agency that own, operate, and manage systems that provide Bay Area cities with water and wastewater services. In 2016 the Association of Bay Area of Governments required a resource to understand which stakeholders did what in the nine-county region. The Barcode as it is now allows a user to see which agencies are responsible for various phases of water and wastewater service for each individual cities. Some cities in the region have identical patterns of service, but there are many unique patterns of water and wastewater service in the Bay Area with municipalities, special districts, and private utilities responsible for varying roles depending on the city.
+ 
+ There are many actions that can be taken to address the current and future droughts. To be a drought resilient region ABAG believes all of our collective resources must be tapped. Understanding who does what will help make it clear who would do what across each of the 101 cities in the Bay Area, as well as highlight who might need to be brought into a collaborative to achieve an outcome. We hope this is only version one of the Barcode. We would like to turn the Barcode into a Sankey diagram as shown on slide five of the Powerpoint. This will require substantial data mining of UWMPs or better reporting in DWR’s UWMP “Data Exports” tables.
+
+### Additional Resources
+
+- [Slides](https://drive.google.com/open?id=0B5n4IeHrVBinblM4c2NtS25HaWs)
+- <https://drive.google.com/open?id=0B5n4IeHrVBinbmZpYmRjWFIzUVU>

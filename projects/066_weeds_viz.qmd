@@ -1,0 +1,45 @@
+---
+title: "WeedsViz"
+# subtitle: 
+# description: 
+format: html
+# title-block-categories: true
+# title-block-banner: true
+author: 
+  - "Junjun Dong"
+  - "Qingping Hou"
+# author:
+#   - name: 
+#     url: 
+#     affiliation: 
+#     affiliation-url:
+# abstract: ""
+# abstract-title: ""
+categories: 
+  - "2019 Water Data Challenge"
+  - "Topic: Quality"
+date: "2019-06-30"
+date-format: "YYYY"
+---
+
+<!-- COMMENT
+## params_NOTUSED-proj_title
+
+#### Year: params_NOTUSED-year
+
+#### Topics: params_NOTUSED-topics
+
+#### Awards: params_NOTUSED-awards
+
+#### Team Members: params_NOTUSED-team_members
+UNCOMMENT -->
+
+### Project Description:
+
+Delta Region Aquatic Invasive Plant Control Visualization
+
+[Project Website](https://junjunjd.github.io/WeedsViz/)
+
+### Additional Resources
+
+- [Project Repository](https://github.com/junjunjd/WeedsViz)

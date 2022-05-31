@@ -1,0 +1,44 @@
+---
+title: "A web-based spatial framework for quantifying stormwater reduction opportunities and water resource benefits"
+# subtitle: 
+# description: 
+format: html
+# title-block-categories: true
+# title-block-banner: true
+author: 
+  - "NA"
+# author:
+#   - name: 
+#     url: 
+#     affiliation: 
+#     affiliation-url:
+# abstract: ""
+# abstract-title: ""
+categories: 
+  - "2016 White House Water Data Challenge"
+date: "2016-06-30"
+date-format: "YYYY"
+---
+
+<!-- COMMENT
+## params_NOTUSED-proj_title
+
+#### Year: params_NOTUSED-year
+
+#### Topics: params_NOTUSED-topics
+
+#### Awards: params_NOTUSED-awards
+
+#### Team Members: params_NOTUSED-team_members
+UNCOMMENT -->
+
+### Project Description:
+
+The inherent spatial and temporal variability of urban hydrology creates challenges for measuring long-term benefits of managing stormwater as a resource and prioritizing actions. A holistic quantification and accounting of effective stormwater volume reductions through infiltration, disconnection, storage etc. can be used to robustly infer downstream multi-benefits such as groundwater banking, base flow restoration, climate change mitigation, stream habitat enhancement etc. Existing stormwater management planning and tracking tools generally underutilize readily available public data sets that can help identify spatial patterns and detect the signal of long term change above the noise of climate variations. 2NFORM has created a technically robust yet computationally simple stormwater model to estimate, and track urban stormwater and pollutant load reductions as a result of BMP implementation directly demonstrating compliance with a number of MS4 NPDES Permit requirements. The stormwater Tool to Estimate Load Reductions (TELR) makes use of publicly available data to assist local and regional managers to make better stormwater management decisions. With TELR, freely available hydrography, rainfall, soils, land-use, impervious cover, impaired waterbodies, and local parcel-assessors’ layers are used to characterize urban catchments using a standardized methodology <Map Your MS4>; and widely-tested USDA algorithms are employed to estimate infiltration and runoff. TELR outputs provide simple, urban catchment-based spatial accounting of the benefits of structural and non-structural BMPs for distributed rainfall infiltration.
+ 
+ In addition to directly demonstrating regulatory compliance, TELR is a framework for organizing urban water resource data that directly aligns with the State SWRP guidance to move toward a more integrated water management approach. TELR and supporting data collection tools are spatially-based, allowing municipalities to evaluate and communicate how stormwater improvements may directly lead to downstream water resource and ecological improvements. TELR provides a science-based approach to stormwater planning and tracking with outputs that are amenable to analysis at the regional and state levels for transparent assessment of priorities and progress over time.
+
+### Additional Resources
+
+- [Slides](https://drive.google.com/open?id=0B5n4IeHrVBinSFVJV3Yyak5FRjQ)
+- <www.swtelr.com> Username: 2N_demo. Password: demopassword

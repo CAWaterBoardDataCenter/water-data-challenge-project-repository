@@ -1,0 +1,48 @@
+---
+title: "CaDC Rate Comparison tool"
+# subtitle: 
+# description: 
+format: html
+# title-block-categories: true
+# title-block-banner: true
+author: 
+  - "Christopher Tull"
+  - "Anudeep Vanjavakam"
+  - "Monobina Mukherjee"
+  - "Drew Atwater"
+  - "Johnathan Cruz"
+  - "Patrick Atwater"
+# author:
+#   - name: 
+#     url: 
+#     affiliation: 
+#     affiliation-url:
+# abstract: ""
+# abstract-title: ""
+categories: 
+  - "2016 White House Water Data Challenge"
+date: "2016-06-30"
+date-format: "YYYY"
+---
+
+<!-- COMMENT
+## params_NOTUSED-proj_title
+
+#### Year: params_NOTUSED-year
+
+#### Topics: params_NOTUSED-topics
+
+#### Awards: params_NOTUSED-awards
+
+#### Team Members: params_NOTUSED-team_members
+UNCOMMENT -->
+
+### Project Description:
+
+With declining water sales, water managers have lost over $675 million of revenue in the current drought. The CaDC rate comparison tool provides a quick way to see the implications that a rate shift or a drought surcharge would have on revenue and typical customer bills. The tool quickly illustrates the impact of a shift before a utility hires a rate consultant and goes through a full, labor intensive Prop 218 process. 
+ You can see a video demo of the tool in action here: https://youtu.be/mYv-OOBGJ28
+
+### Additional Resources
+
+- [Slides](https://drive.google.com/file/d/0B5n4IeHrVBinODNsWnpxLUQwRms/view?resourcekey=0-JrFW-I6y4YRQgYT00-Kw8g)
+- <https://github.com/California-Data-Collaborative/RateComparison>

@@ -1,0 +1,12 @@
+*.Rproj
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+rsconnect/
+
+
+/.quarto/
+
+_projects_repository/2020_2021_water_data_challenge/*.xlsx
+_projects_repository/2020_2021_water_data_challenge/*.csv

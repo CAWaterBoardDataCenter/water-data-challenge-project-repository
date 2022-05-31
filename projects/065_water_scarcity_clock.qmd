@@ -1,0 +1,48 @@
+---
+title: "Water Scarcity Clock"
+# subtitle: 
+# description: 
+format: html
+# title-block-categories: true
+# title-block-banner: true
+author: 
+  - "Sara Biazar"
+  - "Iskra Ušćumlić"
+  - "Thomas Mitterling"
+  - "Peter Burek"
+  - "Peter Greve"
+  - "Robert Burtscher"
+  - "Jasmin Baier"
+# author:
+#   - name: 
+#     url: 
+#     affiliation: 
+#     affiliation-url:
+# abstract: ""
+# abstract-title: ""
+categories: 
+  - "2019 Water Data Challenge"
+  - "Topic: Availability"
+date: "2019-06-30"
+date-format: "YYYY"
+---
+
+<!-- COMMENT
+## params_NOTUSED-proj_title
+
+#### Year: params_NOTUSED-year
+
+#### Topics: params_NOTUSED-topics
+
+#### Awards: params_NOTUSED-awards
+
+#### Team Members: params_NOTUSED-team_members
+UNCOMMENT -->
+
+### Project Description:
+
+[Project Website](https://www.worldwater.io/)
+
+### Additional Resources
+
+NA

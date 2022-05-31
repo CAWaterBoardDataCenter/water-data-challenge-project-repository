@@ -1,0 +1,17 @@
+---
+title: "Project Repository"
+# theme: solar
+listing:
+  contents: projects
+  # type: table
+  categories: numbered
+  fields: [title, author, categories, date]
+  sort-ui: [date, title]
+  sort: "date desc"
+  field-display-names:
+    date: "Year"
+  max-description-length: 100
+  date-format: "YYYY"
+---
+
+This site is a repository of projects that have been submitted to the [California Water Data Challenge](https://waterchallenge.data.ca.gov/) in previous years.

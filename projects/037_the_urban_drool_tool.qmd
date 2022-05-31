@@ -1,0 +1,42 @@
+---
+title: "The Urban Drool Tool"
+# subtitle: 
+# description: 
+format: html
+# title-block-categories: true
+# title-block-banner: true
+author: 
+  - "NA"
+# author:
+#   - name: 
+#     url: 
+#     affiliation: 
+#     affiliation-url:
+# abstract: ""
+# abstract-title: ""
+categories: 
+  - "2016 White House Water Data Challenge"
+date: "2016-06-30"
+date-format: "YYYY"
+---
+
+<!-- COMMENT
+## params_NOTUSED-proj_title
+
+#### Year: params_NOTUSED-year
+
+#### Topics: params_NOTUSED-topics
+
+#### Awards: params_NOTUSED-awards
+
+#### Team Members: params_NOTUSED-team_members
+UNCOMMENT -->
+
+### Project Description:
+
+The main goal of this proof of concept project submittal would be to integrate water use data (Moulton Niguel Water District) with flow and water quality data collected at stormdrain outfalls (OC Public Works) to help prioritize catchments where a condition of unnatural water balance and flow regime may exist as a result of anthropogenic sources during dry weather. It is anticipated that integration of this data will also help inform selection of effective strategies, which will be especially helpful for south Orange County (south OC), where unnatural water balance/flow regime has been identified as a high priority water quality condition within the water quality improvement plan (WQIP) that is currently under development for the south OC watershed management area. This entry is in the Open Source / Data Visualizations and Insights category and would be used as a Decision Support, Data Sharing and Information Communication Tool.
+
+### Additional Resources
+
+- [Slides](https://docs.google.com/presentation/d/1rr8I70WkmyJS5148a6yldgmUuNrKXBt9X6dqTAUONPQ/edit?usp=sharing)
+- <https://drive.google.com/open?id=0B5n4IeHrVBinOERsb3ZZWnNCVEk>
