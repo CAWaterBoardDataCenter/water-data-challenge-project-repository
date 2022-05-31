@@ -16,6 +16,7 @@ author:
 # abstract-title: ""
 categories: 
   - "2016 White House Water Data Challenge"
+  - "Winner 🏆"
 date: "2016-06-30"
 date-format: "YYYY"
 ---

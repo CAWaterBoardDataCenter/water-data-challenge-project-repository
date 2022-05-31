@@ -19,7 +19,7 @@ author:
 # abstract-title: ""
 categories: 
   - "2019 Water Data Challenge"
-  - "Ready to go 🏆"
+  - "Ready-to-Go 🏆"
   - "Topic: Quality"
 date: "2019-06-30"
 date-format: "YYYY"

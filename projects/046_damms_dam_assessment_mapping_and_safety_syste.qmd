@@ -19,7 +19,7 @@ author:
 # abstract-title: ""
 categories: 
   - "2018 Water Data Challenge"
-  - "Team spirit and collaboration 🏆"
+  - "Team Spirit and Collaboration 🏆"
   - "Topic: Infrastructure"
 date: "2018-06-30"
 date-format: "YYYY"

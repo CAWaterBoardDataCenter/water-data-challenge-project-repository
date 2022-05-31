@@ -16,7 +16,7 @@ author:
 # abstract-title: ""
 categories: 
   - "2019 Water Data Challenge"
-  - "People's choice 🏆"
+  - "Peoples Choice 🏆"
   - "Topic: Quality"
 date: "2019-06-30"
 date-format: "YYYY"

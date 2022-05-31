@@ -77,7 +77,7 @@ projects_data <- projects_data |>
                                          TRUE ~ awards)) |> 
     mutate(awards_full_names = str_replace_all(string = awards_full_names, 
                                                pattern = ' \\| ', 
-                                               replacement = paste0(' ', award_badge, ' \\| ')))
+                                               replacement = paste0(' ', award_badge, '" \\| "')))
 
 ## convert repo field into links ----
 # projects_data <- projects_data |> 

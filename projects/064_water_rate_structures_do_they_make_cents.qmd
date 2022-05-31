@@ -21,7 +21,7 @@ author:
 # abstract-title: ""
 categories: 
   - "2019 Water Data Challenge"
-  - "Most data-licious 🏆"
+  - "Most Data-licious 🏆"
   - "Topic: Affordability"
 date: "2019-06-30"
 date-format: "YYYY"

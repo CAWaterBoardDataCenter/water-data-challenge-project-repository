@@ -17,7 +17,7 @@ author:
 # abstract-title: ""
 categories: 
   - "2020-2021 Water Data Challenge"
-  - "Data-licious 🏆"
+  - "Most Data-licious 🏆"
 date: "2021-06-30"
 date-format: "YYYY"
 ---

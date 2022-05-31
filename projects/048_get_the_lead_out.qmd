@@ -18,8 +18,8 @@ author:
 # abstract-title: ""
 categories: 
   - "2018 Water Data Challenge"
-  - "People's choice 🏆
-  - Ready to go 🏆"
+  - "Peoples Choice 🏆"
+  - "Ready-to-Go 🏆"
   - "Topic: Quality"
 date: "2018-06-30"
 date-format: "YYYY"

@@ -8,17 +8,17 @@ The website is built with the Quarto publishing system. See the [Quarto website]
 
 ### Instructions
 
-General workflow description (e.g., use of template markdown file with 'parameter' tags, script to build the project specific markdown files from the template markdown file and the project info spreadsheet/database)...
+[To do: add a general workflow description - e.g., use of template markdown file with 'parameter' tags, script to build the project specific markdown files from the template markdown file and the project info spreadsheet/database...]
 
 Specific instructions:
 
-1.  Enter / edit project information in the `projects_table` spreadsheet in the `_projects_repository` folder.
+1.  Enter / edit project information in the `_projects_repository/projects_table` spreadsheet.
 
     -   Make sure to follow the formatting instructions
 
     -   You can enter information using [markdown formatting](https://www.markdownguide.org/basic-syntax/)
 
-    -   Associated information may also be added in the `awards_table` and `topics_table` spreadsheets (you'll need to edit the scripts and/or templates in the steps below to make use of these tables)
+    -   Associated information may also be added in the `_projects_repository/awards_table` and `_projects_repository/topics_table` spreadsheets (you'll need to edit the scripts and/or templates in the steps below to make use of these tables)
 
 2.  (Optional) If you want to change the information displayed in the project specific pages, edit the template markdown file (`render_project_qmd_files/project_template.txt`). If you do this, you need to make sure that the edits are consistent with the script that builds the markdown files (`render_project_qmd_files/1_render-qmd-files.R`), or edit the script as needed.
 
@@ -30,7 +30,7 @@ Specific instructions:
 
 5.  Render the website.
 
-    -   If using RStudio, open the project file (`.Rproj`), go to the `Build` tab (near the upper right side of the window), and click the `Render Website` button.
+    -   If using RStudio, open the project file (`.Rproj`), go to the `Build` tab (near the upper right side of the window), and click the `Render Website` button. NOTE: if you already had RStudio open from the previous steps, you may need to close and re-start RStudio prior to this step.
     -   More general instructions for rendering quarto websites with other tools / methods are available on the [quarto website](https://quarto.org/)
 
 6.  Run the `render_project_qmd_files/2_clean-html-files.R` script to 'manually' clean some formatting/headers in the rendered html files.

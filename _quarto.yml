@@ -5,10 +5,10 @@ project:
 website:
   twitter-card: true
   opengraph: true
-  title: "CA Water Data Challenge Repository"
+  title: "CA Water Data Challenge Project Repository"
   navbar:
     background: primary
-    logo: 'images/Data_Bear.png'
+    # logo: 'images/Data_Bear.png'
     left:
       - href: index.qmd
         text: Home
@@ -25,5 +25,5 @@ format:
       dark: darkly
     css: styles.css
 
-editor: visual
+editor: source
 

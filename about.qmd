@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-About this site
+This site is maintained by staff from the [California Water Board's Data Center](https://github.com/CAWaterBoardDataCenter). If you have any comments or questions about the site, please contact [waterdata\@waterboards.ca.gov](mailto:%20waterdata@waterboards.ca.gov).
