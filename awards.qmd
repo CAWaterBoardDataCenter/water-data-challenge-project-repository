@@ -1,0 +1,100 @@
+---
+title: "Awards"
+# theme: solar
+---
+
+This page provides more information about some of the awards presented in past data challenge events included in this project repository.
+
+
+## Change at Scale 🏆
+
+This award is new in 2019 and it aims to recognize the importance of scalability. The project that gets this award demonstrates impact at more than one scale and should have characteristics that reflect the success gained from iterating over multiple engagements with multiple parties at different scales.
+
+[Award Winners](index.qmd#category=Change%20at%20Scale%20🏆)
+
+
+## Enduring Civic Engagement 🏆
+
+To honor the team that has had the most impact on communities and their interests, we are excited to announce the inaugural Enduring Civic Engagement Award. This award recognizes the importance of iteration, the value of gathering civic interests and honoring the community perspective on water data value.
+
+[Award Winners](index.qmd#category=Enduring%20Civic%20Engagement%20🏆)
+
+
+## Equity 🏆
+
+[Award Winners](index.qmd#category=Equity%20🏆)
+
+
+## Honorable Mention 🏆
+
+[Award Winners](index.qmd#category=Honorable%20Mention%20🏆)
+
+
+## Imagine H2O 🏆	
+
+As part of a call for commitments to further support the role of a data to solve water challenges, Imagine H2O awarded $1,500 cash and select accelerator services to one team from the Challenge whose solution best meets the following criteria:
+
+- Impact - improves drinking water access and resiliency
+
+- Scalability - enables broad deployment of drinking water solutions
+
+- Innovation - sets forth a unique solution
+
+[Award Winners](index.qmd#category=Imagine%20H2O%20🏆)
+
+
+## Moonshot 🏆	
+
+This award looks at the most ambitious or highest potential for large impact as well as compelling concept and Creativity in approach.
+
+[Award Winners](index.qmd#category=Moonshot%20🏆)
+
+
+## Most Data-licious 🏆
+
+This award is intended to recognize projects that effectively integrate data from different sources or organizations, including their own data.
+
+[Award Winners](index.qmd#category=Most%20Data-licious%20🏆)
+
+
+## Most Engaging by Design 🏆
+
+[Award Winners](index.qmd#category=Most%20Engaging%20by%20Design%20🏆)
+
+
+## People's Choice 🏆	
+
+This award recognizes the project that has received the most votes from the summit's in-person participants.
+
+[Award Winners](index.qmd#category=Peoples%20Choice%20🏆)
+
+
+## Ready-to-Go 🏆	
+
+This award looks at feasibility of implementation. It addresses real-world needs relevant to drinking water issues, demonstrating an understanding of constraints, including cost of implementation. It works “as is”, and has some level of interoperability with existing work or systems.
+
+[Award Winners](index.qmd#category=Ready-to-Go%20🏆)
+
+
+## Rising Innovator 🏆	
+
+This award is intended to recognize an emerging group of leaders in the water, technology, or innovation fields. The team demonstrated an innovative approach, has high leadership potential, and a diversity of organizations.
+
+[Award Winners](index.qmd#category=Rising%20Innovator%20🏆)
+
+
+## Runner-Up
+
+[Award Winners](index.qmd##category=Runner-Up%20🏆)
+
+
+## Team Spirit and Collaboration 🏆
+
+[Award Winners](index.qmd#category=Team%20Spirit%20and%20Collaboration%20🏆)
+
+
+## Winner 🏆
+
+Overall winner of the competition.
+
+[Award Winners](index.qmd#category=Winner%20🏆)

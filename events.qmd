@@ -1,0 +1,44 @@
+---
+title: "Events"
+# theme: solar
+---
+
+This page provides more information about the past data challenge events that the projects included in the repository were submitted to.
+
+
+## 2016 Data Innovation Challenge
+
+- [Event Website](https://www.waterboards.ca.gov/resources/data_databases/data_innov_challenge.html)
+
+- [Projects](index.qmd#category=2016%20Data%20Innovation%20Challenge)
+
+
+## 2016 White House Water Data Challenge
+
+- [Event Announcement (White House)](https://obamawhitehouse.archives.gov/blog/2016/10/28/using-data-build-sustainable-water-future)
+
+- [Event Announcement (CA Water Board)](https://www.waterboards.ca.gov/press_room/press_releases/2016/pr102816_data_challenge.pdf)
+
+- [Winners and Event Recap](https://www.waterboards.ca.gov/press_room/press_releases/2016/pr121516.pdf)
+
+- [Projects](index.qmd#category=2016%20White%20House%20Water%20Data%20Challenge)
+
+
+## 2018 Water Data Challenge
+
+- [Projects](index.qmd#category=2018%20Water%20Data%20Challenge)
+
+
+## 2019 Water Data Challenge
+
+- [Projects](index.qmd#category=2019%20Water%20Data%20Challenge)
+
+
+## 2020-2021 Water Data Challenge
+
+- [Projects](index.qmd#category=2020-2021%20Water%20Data%20Challenge)
+
+
+## 2022 Water Data Challenge
+
+TBA
