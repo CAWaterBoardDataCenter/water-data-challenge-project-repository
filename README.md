@@ -2,7 +2,7 @@
 
 ## Water Data Challenge Project Repository Website - Source Files
 
-This repository contains the source files used to build a website that serves as a repository of projects submitted to the [California Water Data Challenge](https://waterchallenge.data.ca.gov/) in previous years. The website is available at: <https://daltare.github.io/water-data-challenge-project-repository/>
+This repository contains the source files used to build a website that serves as a repository of projects submitted to the [California Water Data Challenge](https://waterchallenge.data.ca.gov/) in previous years. The website is available at: <https://cawaterboarddatacenter.github.io/water-data-challenge-project-repository/>
 
 The website is built with the Quarto publishing system. See the [Quarto website](https://quarto.org/) for more information not covered here about how to modify/customize/render/publish sites using this system.
 
