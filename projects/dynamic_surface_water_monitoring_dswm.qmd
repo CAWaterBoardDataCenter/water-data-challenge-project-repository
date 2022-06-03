@@ -1,0 +1,60 @@
+---
+title: "Dynamic Surface Water Monitoring (DSWM)"
+# subtitle: 
+# description: 
+format: html
+# title-block-categories: true
+# title-block-banner: true
+author: 
+  - "NA"
+# author:
+#   - name: 
+#     url: 
+#     affiliation: 
+#     affiliation-url:
+# abstract: ""
+# abstract-title: ""
+categories: 
+  - "2016 White House Water Data Challenge"
+date: "2016-06-30"
+date-format: "YYYY"
+---
+
+<!-- COMMENT
+## params_NOTUSED-proj_title
+
+#### Year: params_NOTUSED-year
+
+#### Topics: params_NOTUSED-topics
+
+#### Awards: params_NOTUSED-awards
+
+#### Team Members: params_NOTUSED-team_members
+UNCOMMENT -->
+
+### Project Description
+
+Our team has developed a proof of concept project (1) Fully Open Sourced to assist
+ in (2) Decision Support, Data Sharing, and Information Communication Tools. The
+ objective with this proposal is to framework to implement a Same-time monitoring
+ network to produce an endless number of advantages for purpose of water
+ accountability. With this baseline network design discussed, collaborating agencies
+ could plug-and-play working theories for optimal Water Resources Management
+ practices with an ability to validate accuracy to a fine degree.
+ In our proof of concept, we evaluation Shasta Dam station approximately 10 miles
+ of river length north of the Keswick Reservoir Station. In order to compare the
+ discrepancies between stations, we used the following two dataset sources:
+ 􀀀 California Data Exchange Center (CDEC) – US Bureau of Reclamation,
+ Department of Water Resources, and Water Quality
+ 􀀀 National Water Quality Monitoring Council (NWQMC)– USGS NWIS and
+ BioData, EPA STORET, and USDA-ARS STEWARDS through a single search
+ interface
+ Below is an outline of the technical report used for our standalone document
+ submission. We have also attached the requested Power-point, and Working Excel
+ Spreadsheet that has an output less powerful, but relatively similar to R-Studio.
+
+### Additional Resources
+
+- [Slides](https://drive.google.com/open?id=0B5n4IeHrVBinLXlRN3VjNGwwTVk)
+- <https://drive.google.com/open?id=0B5n4IeHrVBinUGN0bm1HLUhSa1E>
+- <https://drive.google.com/open?id=0B5n4IeHrVBinbVhGOUh6VTNRM28>

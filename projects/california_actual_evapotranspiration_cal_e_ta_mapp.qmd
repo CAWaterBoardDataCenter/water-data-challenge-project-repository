@@ -1,0 +1,56 @@
+---
+title: "California Actual Evapotranspiration (CalETa) Mapping Program"
+# subtitle: 
+# description: 
+format: html
+# title-block-categories: true
+# title-block-banner: true
+author: 
+  - "NA"
+# author:
+#   - name: 
+#     url: 
+#     affiliation: 
+#     affiliation-url:
+# abstract: ""
+# abstract-title: ""
+categories: 
+  - "2016 White House Water Data Challenge"
+date: "2016-06-30"
+date-format: "YYYY"
+---
+
+<!-- COMMENT
+## params_NOTUSED-proj_title
+
+#### Year: params_NOTUSED-year
+
+#### Topics: params_NOTUSED-topics
+
+#### Awards: params_NOTUSED-awards
+
+#### Team Members: params_NOTUSED-team_members
+UNCOMMENT -->
+
+### Project Description
+
+Formation Environmental LLC developed a statewide actual evapotranspiration (ETa) dataset to support water resource planning and management efforts in California. CalETa provides an unprecedented daily, 30-meter spatial resolution, statewide ETa dataset (currently available from 2010 through present). This dataset is the result of a comprehensive image analysis framework that relies on publically available satellite earth observation data, local meteorological data, and open source algorithms. The core of the framework utilizes the Surface Energy Balance System (SEBS) algorithm. The peer reviewed SEBS model provides a detailed parameterization for the estimation of surface heat fluxes, producing consistent ETa estimates over a wide range of land use types. The framework, consisting of multiple components, provides a robust, economical, and efficient means to estimate ETa. Validation studies performed using on-the-ground measurements of ETa show an excellent relationship between measured and modeled data. CalETa fundamentally improves water resource management at every scale, with applications of use that include: (i) drought and water conservation planning, (ii) groundwater banking, (iii) groundwater sustainability planning and management, (iv) surface and groundwater modeling, (v) on-farm water management, (vi) water transfer planning and implementation, (vii) native, riparian and invasive plant community monitoring, and (viii) irrigation performance and land use planning. 
+ There is a wide range of application for spatial ETa information, and the use of CalETa is transforming how water planning decisions are made throughout California. Examples of how this dataset is used include:
+ 1. To enhance the capability and improve water balance computation, the Department of Water Resources (DWR) is using this dataset in the California Central Valley Groundwater-Surface Water Simulation Model (C2VSim).
+ 2. DWR is using this dataset for monitoring, evaluating, and implementing the Sustainable Groundwater Management Act (SGMA) program.
+ 3. DWR was tasked by the Governor’s office to respond to several drought-related questions. This dataset was fundamental to informing statewide water planning efforts and developing water conservation objectives and metrics.
+ 4. The Nature Conservancy is evaluating the use of this dataset for long-term monitoring and impact assessment of restored and managed riparian habitat.
+ 5. This dataset is used to identify watersheds with high tree mortality as a result of drought and bark beetle infestation. Finding corresponds with the region identified by the U.S. Forest Service.
+ 6. The California Rice Commission used this dataset to quantify water transfers and rice fallowing in Sacramento Valley. 
+ 7. Water districts are using this dataset to implement, monitor, and quantify the effectiveness of fallowing and on-farm efficiency conservation programs.
+ 8. CalETa is used to support private companies in development of on-farm water conservation and irrigation scheduling tools.
+ 9. Water quality coalitions in the southern San Joaquin Valley are using this dataset as part of their Management Practices Evaluation Program, supporting efforts to protect groundwater quality by quantifying reduction in nitrate leaching. 
+ 10. The State Water Resource Control Board (SWRCB) is using this dataset to understand the water use of cannabis and prioritize its regulatory efforts.
+
+### Additional Resources
+
+- [Slides](https://drive.google.com/open?id=0B5n4IeHrVBinT0o4ZVNrWHk5Vkk)
+- <http://arcg.is/2h3CjYE>
+- <https://drive.google.com/open?id=0B5n4IeHrVBinR2VSOGJLeVpPZ0U>
+- <https://github.com/gpaulFormation/CalETa>
+- <https://drive.google.com/open?id=0B5n4IeHrVBindGpGanJULUVPYjA>

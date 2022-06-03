@@ -2,4 +2,6 @@
 title: "About"
 ---
 
-This site is maintained by staff from the [California Water Board's Data Center](https://github.com/CAWaterBoardDataCenter). If you have any comments or questions about the site, please contact [waterdata\@waterboards.ca.gov](mailto:%20waterdata@waterboards.ca.gov).
+This site is maintained by staff from the [California Water Board's Data Center](https://github.com/CAWaterBoardDataCenter). 
+
+If you have any comments or questions about the site, please contact [waterdata\@waterboards.ca.gov](mailto:%20waterdata@waterboards.ca.gov). You can also request changes to the information associated with a project by [submitting an issue on GitHub](https://github.com/CAWaterBoardDataCenter/water-data-challenge-project-repository/issues).

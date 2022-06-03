@@ -1,0 +1,43 @@
+---
+title: "CaDC Efficiency Explorer"
+# subtitle: 
+# description: 
+format: html
+# title-block-categories: true
+# title-block-banner: true
+author: 
+  - "NA"
+# author:
+#   - name: 
+#     url: 
+#     affiliation: 
+#     affiliation-url:
+# abstract: ""
+# abstract-title: ""
+categories: 
+  - "2016 White House Water Data Challenge"
+date: "2016-06-30"
+date-format: "YYYY"
+---
+
+<!-- COMMENT
+## params_NOTUSED-proj_title
+
+#### Year: params_NOTUSED-year
+
+#### Topics: params_NOTUSED-topics
+
+#### Awards: params_NOTUSED-awards
+
+#### Team Members: params_NOTUSED-team_members
+UNCOMMENT -->
+
+### Project Description
+
+The Governor’s May 16 Executive Order (B-37-16) calls for the development of water use targets customized to the unique conditions of each urban water agency as part of a new, permanent efficiency framework. The CaDC Efficiency Explorer is an interactive dashboard that supports the California water community in analyzing the impact of those new standards through a easy to use scenario explorer tool.
+ The video in the attached powerpoint demonstrates the Efficiency Explorer’s functionality at an inter-agency level and at an intra-agency level.
+
+### Additional Resources
+
+- [Slides](https://drive.google.com/open?id=0B5n4IeHrVBinck9rcy1qM3hESHc)
+- <https://github.com/California-Data-Collaborative/efficiency-explorer>

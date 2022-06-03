@@ -1,0 +1,44 @@
+---
+title: "Purify"
+# subtitle: 
+# description: 
+format: html
+# title-block-categories: true
+# title-block-banner: true
+author: 
+  - "Ansh Motiani"
+  - "Adi Gupta"
+  - "Samhith Kakarla"
+# author:
+#   - name: 
+#     url: 
+#     affiliation: 
+#     affiliation-url:
+# abstract: ""
+# abstract-title: ""
+categories: 
+  - "2020-2021 Water Data Challenge"
+  - "Rising Innovator 🏆"
+date: "2021-06-30"
+date-format: "YYYY"
+---
+
+<!-- COMMENT
+## params_NOTUSED-proj_title
+
+#### Year: params_NOTUSED-year
+
+#### Topics: params_NOTUSED-topics
+
+#### Awards: params_NOTUSED-awards
+
+#### Team Members: params_NOTUSED-team_members
+UNCOMMENT -->
+
+### Project Description
+
+Clean Water Discrimination: The Native American Water Crisis
+
+### Additional Resources
+
+- [Project Website](https://purify-16131.web.app)

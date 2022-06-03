@@ -1,0 +1,47 @@
+---
+title: "Blue Conduit"
+# subtitle: 
+# description: 
+format: html
+# title-block-categories: true
+# title-block-banner: true
+author: 
+  - "Dr. Eric Schwartz"
+  - "Dr. Jacob Abernethy"
+  - "Jared Webb"
+  - "Ian Robinson"
+  - "Brigadier General (ret.) Michael McDaniel"
+# author:
+#   - name: 
+#     url: 
+#     affiliation: 
+#     affiliation-url:
+# abstract: ""
+# abstract-title: ""
+categories: 
+  - "2019 Water Data Challenge"
+  - "Topic: Infrastructure"
+  - "Topic: Quality"
+date: "2019-06-30"
+date-format: "YYYY"
+---
+
+<!-- COMMENT
+## params_NOTUSED-proj_title
+
+#### Year: params_NOTUSED-year
+
+#### Topics: params_NOTUSED-topics
+
+#### Awards: params_NOTUSED-awards
+
+#### Team Members: params_NOTUSED-team_members
+UNCOMMENT -->
+
+### Project Description
+
+Using AI to reduce uncertainty of lead service line replacement
+
+### Additional Resources
+
+NA

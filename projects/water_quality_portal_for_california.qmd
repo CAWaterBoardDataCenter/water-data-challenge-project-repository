@@ -1,0 +1,46 @@
+---
+title: "Water Quality Portal for California"
+# subtitle: 
+# description: 
+format: html
+# title-block-categories: true
+# title-block-banner: true
+author: 
+  - "Rich Pauloo"
+  - "Lindsay Poirier"
+  - "Andrew Essin"
+  - "Avery Kreuger"
+# author:
+#   - name: 
+#     url: 
+#     affiliation: 
+#     affiliation-url:
+# abstract: ""
+# abstract-title: ""
+categories: 
+  - "2019 Water Data Challenge"
+  - "Ready-to-Go 🏆"
+  - "Topic: Quality"
+date: "2019-06-30"
+date-format: "YYYY"
+---
+
+<!-- COMMENT
+## params_NOTUSED-proj_title
+
+#### Year: params_NOTUSED-year
+
+#### Topics: params_NOTUSED-topics
+
+#### Awards: params_NOTUSED-awards
+
+#### Team Members: params_NOTUSED-team_members
+UNCOMMENT -->
+
+### Project Description
+
+[Project webpage](https://caccr.github.io/)
+
+### Additional Resources
+
+- [Project Repository](https://github.com/caccr/cawdc_2019)

@@ -1,0 +1,40 @@
+---
+title: "Topics"
+# theme: solar
+---
+
+This page provides more information about some of the topics addressed by projects in past data challenge events.
+
+
+## Affordability
+
+Is water affordable? For many people, the answer is: unfortunately, not really.
+These projects focus on using existing water data to quantify the economic impact of water on people and communities using it.
+
+[Affordability Projects](index.qmd#category=Topic:%20Affordability%20)
+
+
+## Groundwater
+
+Projects concerning groundwater.
+
+[Groundwater Projects](index.qmd#category=Topic:%20Groundwater%20)
+
+
+## Infrastructure
+
+These projects study the status of water infrastructure in California.
+
+[Infrastructure Projects](index.qmd#category=Topic:%20Infrastructure%20)
+
+
+## Quality
+
+[Quality Projects](index.qmd#category=Topic:%20Quality%20)
+
+
+## Tools
+
+Devices, software, and protocols, to enable better water data collection, processing, and analysis.
+
+[Tools Projects](index.qmd#category=Topic:%20Tools%20)

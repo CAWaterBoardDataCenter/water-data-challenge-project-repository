@@ -16,4 +16,4 @@ listing:
 
 This site is a repository of projects that have been submitted to the [California Water Data Challenge](https://waterchallenge.data.ca.gov/) in previous years.
 
-If you were a member of one of the teams whose project is listed here and would like to submit changes or updates to your project, please send a message to [waterdata\@waterboards.ca.gov](mailto:%20waterdata@waterboards.ca.gov) describing your requested changes.
+If you were a member of one of the teams whose project is listed here and would like to submit changes or updates to your project, please send a message to [waterdata\@waterboards.ca.gov](mailto:%20waterdata@waterboards.ca.gov) or [submit an issue on GitHub](https://github.com/CAWaterBoardDataCenter/water-data-challenge-project-repository/issues) describing your requested changes.

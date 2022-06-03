@@ -17,15 +17,18 @@ website:
       - about.qmd
     right:
       - icon: github
-        href: https://github.com/CAWaterBoardDataCenter
+        href: https://github.com/CAWaterBoardDataCenter/water-data-challenge-project-repository
 
 format:
   html:
     # theme: cosmo
     theme:
-      light: flatly
-      dark: darkly
-    css: styles.css
+      # - default
+      # - custom.scss
+      light: [flatly, custom.scss]
+      dark: [darkly, custom.scss]
+    # css: styles.css
+    fontsize: .95em
 
 editor: source
 

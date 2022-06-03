@@ -1,0 +1,46 @@
+---
+title: "Microsoft Cortana Intelligence"
+# subtitle: 
+# description: 
+format: html
+# title-block-categories: true
+# title-block-banner: true
+author: 
+  - "Michael Cruz"
+# author:
+#   - name: 
+#     url: 
+#     affiliation: 
+#     affiliation-url:
+# abstract: ""
+# abstract-title: ""
+categories: 
+  - "2016 Data Innovation Challenge"
+date: "2016-06-30"
+date-format: "YYYY"
+---
+
+<!-- COMMENT
+## params_NOTUSED-proj_title
+
+#### Year: params_NOTUSED-year
+
+#### Topics: params_NOTUSED-topics
+
+#### Awards: params_NOTUSED-awards
+
+#### Team Members: params_NOTUSED-team_members
+UNCOMMENT -->
+
+### Project Description
+
+Our project submission is a proof-of-concept entry that leverages Microsoft Cortana Intelligence to explore the themes and questions that have been presented for this challenge.  My intent is to show how Cortana Intelligence can provide CA Water Board internal and external staff the tools to 
+1)      Ingest and Explore Data in a Data Lake
+2)      Create Features and Models using Machine Learning
+3)      Deploy, Consume, and Operationalize models with web services and reports.
+
+### Additional Resources
+
+- [Application: Microsoft Cortana Intelligence](https://msit.powerbi.com/view?r=eyJrIjoiNDUwMDIyN2UtM2E2OC00ZTBlLWEwYjYtMzgzMDllY2M3OTYwIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9#)
+- [Presentation: Microsoft Cortana](http://www.waterboards.ca.gov/resources/data_databases/docs/microsoft_pres.mp4#)
+- [Slides: Microsoft Cortana](http://www.waterboards.ca.gov/resources/data_databases/docs/mscortana.pdf#)

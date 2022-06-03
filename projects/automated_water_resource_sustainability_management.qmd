@@ -1,0 +1,44 @@
+---
+title: "Automated Water Resource Sustainability Management"
+# subtitle: 
+# description: 
+format: html
+# title-block-categories: true
+# title-block-banner: true
+author: 
+  - "NA"
+# author:
+#   - name: 
+#     url: 
+#     affiliation: 
+#     affiliation-url:
+# abstract: ""
+# abstract-title: ""
+categories: 
+  - "2016 White House Water Data Challenge"
+date: "2016-06-30"
+date-format: "YYYY"
+---
+
+<!-- COMMENT
+## params_NOTUSED-proj_title
+
+#### Year: params_NOTUSED-year
+
+#### Topics: params_NOTUSED-topics
+
+#### Awards: params_NOTUSED-awards
+
+#### Team Members: params_NOTUSED-team_members
+UNCOMMENT -->
+
+### Project Description
+
+Without sufficient clean water, the California (and US) economy will suffer. Growing populations and an inability or unwillingness to encourage the public to alter dietary habits linked to water supplies will increase the demand for new technologies. In a white paper entitled “Enhancing the Vision for Managing California’s Environmental Information” (http://deltacouncil.ca.gov/docs/enhancing-vision-managing-california-s-environmentalinformation), experts in environmental management acknowledge that more efficient tools are needed to reduce the life-cycle costs for managing water resources. Sensors have been cited as a key solution to rising assessment costs. However, data collection alone will not suffice, as the data will need to be appropriately collected, remotely transmitted, stored, processed, visualized and managed in a manner that allows for rapid automated responses to troubling issues.
+
+To address the challenges described above, our team developed our Water Sustainability Platform (US Patent 8,892,221, Issued in Oz and NZ). More specifically, we merged classical hydraulic theory, Game Theory, automated sensing, and processing and response to instantly determine when unsustainable conditions arise. The platform automatically reports when groundwater extraction rates would result in basin overdraft, stream depletion or seawater intrusion. This system directly answers resource management questions that are not readily determined via any other method, as it calculates and reports the maximum sustainable extraction rate for every well in a hydrogeologic network and compares this to the measured extraction rates within the system. The platform is designed to monitor and automatically respond to ever-changing groundwater levels, stream flow rates, groundwater extractions, and hydrogeologic conditions and is ideal for permitting and planning purposes (e.g., determining whether a proposed well installation could potentially impair resources and habitat). In essence, integration of our Water Sustainability Platform can significantly reduce life-cycle costs for managing water resources while ensuring that key supply and environmental objectives are being met.
+
+### Additional Resources
+
+- [Slides](https://drive.google.com/open?id=0B5n4IeHrVBinRllSY004WFd4X0U)
+- <http://gswell.abbaroo.com/>

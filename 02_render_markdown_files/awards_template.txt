@@ -1,0 +1,8 @@
+---
+title: "Awards"
+# theme: solar
+---
+
+This page provides more information about some of the awards presented in past data challenge events included in this project repository.
+
+

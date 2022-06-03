@@ -1,0 +1,44 @@
+---
+title: "Endora"
+# subtitle: 
+# description: 
+format: html
+# title-block-categories: true
+# title-block-banner: true
+author: 
+  - "Alberto Curiel"
+  - "Adrian Alvarez"
+# author:
+#   - name: 
+#     url: 
+#     affiliation: 
+#     affiliation-url:
+# abstract: ""
+# abstract-title: ""
+categories: 
+  - "2016 Data Innovation Challenge"
+date: "2016-06-30"
+date-format: "YYYY"
+---
+
+<!-- COMMENT
+## params_NOTUSED-proj_title
+
+#### Year: params_NOTUSED-year
+
+#### Topics: params_NOTUSED-topics
+
+#### Awards: params_NOTUSED-awards
+
+#### Team Members: params_NOTUSED-team_members
+UNCOMMENT -->
+
+### Project Description
+
+Endora is a AI Cognitive System to make a symbiosis between humans, machines and nature, to monit the climate change on real time and follow the parameters monitored. Endora reads your questions in natural language, Endora follows information from multiple indicators, dispersed datasets, files, research documents, internet, makes simulations, inductions, analysis, deductions.
+
+### Additional Resources
+
+- [See slides]()
+- [Presentation: Endora](http://www.waterboards.ca.gov/resources/data_databases/docs/endora_pres.mp4#)
+- [Slides: Endora](http://www.waterboards.ca.gov/resources/data_databases/docs/endora.pdf#)

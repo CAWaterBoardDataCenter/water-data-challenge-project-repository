@@ -1,0 +1,50 @@
+---
+title: "Water: Towards True Affordability"
+# subtitle: 
+# description: 
+format: html
+# title-block-categories: true
+# title-block-banner: true
+author: 
+  - "Ludovico Bianchi"
+# author:
+#   - name: 
+#     url: 
+#     affiliation: 
+#     affiliation-url:
+# abstract: ""
+# abstract-title: ""
+categories: 
+  - "2018 Water Data Challenge"
+  - "Topic: Affordability"
+date: "2018-06-30"
+date-format: "YYYY"
+---
+
+<!-- COMMENT
+## params_NOTUSED-proj_title
+
+#### Year: params_NOTUSED-year
+
+#### Topics: params_NOTUSED-topics
+
+#### Awards: params_NOTUSED-awards
+
+#### Team Members: params_NOTUSED-team_members
+UNCOMMENT -->
+
+### Project Description
+
+Communities that are economically disadvantaged are most vulnerable to high water prices, and safety and availability issues.
+
+This project combines information from the Public Water Services (PWS), US Census data and water utility rates to study the affordability of drinking water in California.
+
+To fill the gaps in the existing data and engage and empowered the communities most affected, a proof-of-concept implementation for a survey is included.
+
+Additional resources:
+
+- [Project webpage](https://cawc-towardstrueaffordability.netlify.com/)
+
+### Additional Resources
+
+- [Project Repository](https://github.com/waterdatacollaborative/Water-Towards-True-Affordability)

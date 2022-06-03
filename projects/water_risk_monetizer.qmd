@@ -1,0 +1,44 @@
+---
+title: "Water Risk Monetizer"
+# subtitle: 
+# description: 
+format: html
+# title-block-categories: true
+# title-block-banner: true
+author: 
+  - "NA"
+# author:
+#   - name: 
+#     url: 
+#     affiliation: 
+#     affiliation-url:
+# abstract: ""
+# abstract-title: ""
+categories: 
+  - "2016 White House Water Data Challenge"
+date: "2016-06-30"
+date-format: "YYYY"
+---
+
+<!-- COMMENT
+## params_NOTUSED-proj_title
+
+#### Year: params_NOTUSED-year
+
+#### Topics: params_NOTUSED-topics
+
+#### Awards: params_NOTUSED-awards
+
+#### Team Members: params_NOTUSED-team_members
+UNCOMMENT -->
+
+### Project Description
+
+Demand for water is quickly outpacing supply, and demand for water, food and energy continues to increase. To be sustainable, business will need to find ways to operate – and grow – while dramatically reducing reliance of natural resources. The Water Risk Monetizer provides actionable information to help water users understand the impact of water scarcity to their business and quantify those risks in financial terms to inform decisions that enable growth. The Water Risk Monetizer provides directional guidance in the form of a risk-adjusted cost of water, a monetary estimate of the full value of water at a facility level based on what water would cost if supply and demand were accurately reflected. The Water Risk Monetizer also examines the potential revenue at risk to a facility, estimating the amount and likelihood of the revenue that could potentially be lost at a facility due to the impact of water scarcity on operations.
+ 
+ Applicable to any industry, the Water Risk Monetizer builds the business case for water stewardship. The tool can be used by business, agricultural and public water users to assess risk, enhance enterprise strategy or improve sustainable performance at a site level. Providing water users with an understanding of the full value of water will support investments to reduce water use and improve water reliability throughout California. This entry is in the non-open source / decision support, data sharing and information communication tools category.
+
+### Additional Resources
+
+- [Slides](https://drive.google.com/open?id=0B5n4IeHrVBinLTVnRkp1TmZ6TjA)
+- <www.WaterRiskMonetizer.com>

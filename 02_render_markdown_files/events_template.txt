@@ -1,0 +1,8 @@
+---
+title: "Events"
+# theme: solar
+---
+
+This page provides more information about the past data challenge events that the projects included in the repository were submitted to.
+
+
