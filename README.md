@@ -32,15 +32,13 @@ Specific instructions:
 
     -   Runs the `02_render_markdown_files/1_render-markdown-files.R` script to build markdown files based on the information in the project repository workbook and the template markdown files (the resulting markdown files are saved in the `projects` folder, and any previous versions of the markdown files in that folder are overwritten)
 
-    -   Renders the site by converting the markdown files (`.qmd` files) into html files - the rendered files are generated in the `docs` folder
+    -   Renders the site by converting the markdown files (`.qmd` files) into html files (by running the command `quarto render`), and saving the rendered files in the `docs` folder (Note: this is the same as 'manually' building the site in RStudio by going to the `Build` tab - near the upper right side of the window - and clicking on the `Render Website` button)
 
     -   Runs the `02_render_markdown_files/2_clean-html-files.R` script to do some minor editing of the rendered html files
 
     -   (Optional) Previews the site by running a local web server
 
     Any of these parts can also be run individually as needed.
-
-    If using RStudio, as an alternative you can open the project file (`.Rproj`), go to the `Build` tab (near the upper right side of the window), and click the `Render Website` button. NOTE: if you already had RStudio open from the previous steps, you may need to close and re-start RStudio prior to this step.
 
     More general instructions for rendering quarto websites with other tools / methods are available on the [quarto website](https://quarto.org/)
 

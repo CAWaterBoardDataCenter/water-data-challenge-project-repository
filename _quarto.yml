@@ -1,7 +1,11 @@
 project:
   type: website
   output-dir: docs
-
+  # pre-render: 
+    # - 02_render_markdown_files/1_render-markdown-files.R
+  # post-render: 
+    # - 02_render_markdown_files/2_clean-html-files.R
+  
 website:
   twitter-card: true
   opengraph: true
