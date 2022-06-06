@@ -6,9 +6,19 @@ This repository contains the source files used to build a website that serves as
 
 The website is built with the Quarto publishing system. See the [Quarto website](https://quarto.org/) for more information not covered here about how to modify/customize/render/publish sites using this system.
 
+### Required Tools
+
+In order to use the workflow described below, you'll need to install the following free and open source software:
+
+-   [Quarto CLI](https://quarto.org/docs/get-started)
+
+-   [R Programming Language](%3Chttps://cloud.r-project.org/)
+
+-   [RStudio IDE (optional)](https://www.rstudio.com/products/rstudio/)
+
 ### Instructions
 
-\[To do: add a general workflow description - e.g., use of template markdown file with 'parameter' tags, script to build the project specific markdown files from the template markdown file and the project info spreadsheet/database...\]
+[To do: add a general workflow description - e.g., use of template markdown file with 'parameter' tags, script to build the project specific markdown files from the template markdown file and the project info spreadsheet/database...]
 
 NOTE: this process overwrites most of the existing markdown files (i.e., files with a `.qmd` extension) in this directory, except for the `index.qmd` and `about.qmd` files. So, as a general rule, don't make manual edits to any markdown files except for the two listed above - instead make changes to the project repository workbook and the markdown template files as needed, then re-build the site as described below.
 
