@@ -57,3 +57,11 @@ So, to add new projects to the repository, or edit the information about existin
 6.  Push the changes to the GitHub repository.
 
     -   Note: if you wanted to create a new website in a different repository, you'd need to follow [these instructions](https://quarto.org/docs/websites/publishing-websites.html#github-pages) to set up GitHub pages correctly. But you can ignore this if you're just making updates to this existing site.
+
+### Additional Notes
+
+- The `_quarto.yml` is used to specify high-level information about how the site is built, e.g., what input files to use, the output directory for rendered files, navigation bar specifications, site-wide formatting, etc.
+
+- The home page for this site is created from the `index.qmd` file - this file can be edited directly, since it is not overwritten by the process used to rebuild the site; the `listing:` portion of the header info in this file specifies how the projects are listed on the homepage
+
+- The `custom.scss` file specifies some custom formatting for the site (i.e., it overrides some of the default css)
