@@ -42,3 +42,5 @@ We combine census data with groundwater quality data to provide a high-resolutio
 
 - [Project Website](https://public.tableau.com/views/CaliforniaWaterQualityCensus/
 WaterQualityCensusDashboard)
+
+- [Overview Video](https://drive.google.com/file/d/1E7heJkHM8H-aq38sRdBpqmr4CvA9K2xa/view?usp=sharing)

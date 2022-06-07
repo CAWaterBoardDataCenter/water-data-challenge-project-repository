@@ -16,13 +16,15 @@ In order to use the workflow described below, you'll need to install the followi
 
 -   [RStudio IDE (optional)](https://www.rstudio.com/products/rstudio/)
 
-### Instructions
+### Overview of Website Maintenance Workflow
 
-\[To do: add a general workflow description - e.g., use of template markdown file with 'parameter' tags, script to build the project specific markdown files from the template markdown file and the project info spreadsheet/database...\]
+The workflow used to maintain this site was designed with the goal of being as user friendly as possible for those without extensive experience working with either (1) websites and the associated files (html, css, etc.) or (2) markdown files. Most edits/additions to the site can be accomplished by editing an Excel workbook then running a single R script, as described below.
 
-NOTE: this process overwrites most of the existing markdown files (i.e., files with a `.qmd` extension) in this directory, except for the `index.qmd` and `about.qmd` files. So, as a general rule, don't make manual edits to any markdown files except for the two listed above - instead make changes to the project repository workbook and the markdown template files as needed, then re-build the site as described below.
+More specifically, all of the information used to build the individual project pages, as well as the information contained in the Events and Awards pages, is contained in the `01_projects_repository/project_repository_tables` Excel workbook. The website is (re)built by inserting information from that workbook into associated template files, which are in the in the `02_render_markdown_files` folder, to create a series of markdown documents. Then the site is rendered in a process that generates html files from those markdown documents.
 
-Specific instructions:
+So, to add new projects to the repository, or edit the information about existing projects in the repository, only update the information in the Excel workbook, rather than editing the markdown files directly. In other words, the process described below overwrites most of the existing markdown files (i.e., files with a `.qmd` extension) in this directory, except for the `index.qmd` and `about.qmd` files. So, as a general rule, don't make manual edits to any markdown files except for the two listed above - instead make changes to the project repository workbook and the markdown template files as needed, then re-build the site as described below.
+
+### Instructions for Maintaining / Updating the Website
 
 1.  Enter or edit project information in the `01_projects_repository/project_repository_tables` Excel workbook.
 

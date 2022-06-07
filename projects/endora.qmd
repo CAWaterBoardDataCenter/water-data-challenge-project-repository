@@ -39,6 +39,5 @@ Endora is a AI Cognitive System to make a symbiosis between humans, machines and
 
 ### Additional Resources
 
-- [See slides]()
 - [Presentation: Endora](http://www.waterboards.ca.gov/resources/data_databases/docs/endora_pres.mp4#)
 - [Slides: Endora](http://www.waterboards.ca.gov/resources/data_databases/docs/endora.pdf#)

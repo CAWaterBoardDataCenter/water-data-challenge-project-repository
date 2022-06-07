@@ -40,4 +40,8 @@ Bringing awareness to and analyzing a newly researched class of chemicals, PFAS.
 
 ### Additional Resources
 
-NA
+- [Application](https://meldataaa.shinyapps.io/PFAS_Analysis_and_Intervention/)
+
+- [GitHub Repository](https://github.com/meldataaa/PFAS_Analysis_and_Intervention)
+
+- [Overview Video](https://drive.google.com/file/d/1P2BAixRCR96YhqvQwzU9XKGUL8I504gi/view?usp=sharing)

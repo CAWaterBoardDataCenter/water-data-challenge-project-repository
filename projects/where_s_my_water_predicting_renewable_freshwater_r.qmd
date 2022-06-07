@@ -44,4 +44,6 @@ Develop a prediction system for and forensically reconstruct statewide renewable
 
 ### Additional Resources
 
-NA
+`- [Application](https://ca-water-dataviz.herokuapp.com/)
+
+- [Overview Video](https://drive.google.com/file/d/1juwMRD_3ADuF4ZNIPzq6lokuNyaqLpda/view?usp=sharing)

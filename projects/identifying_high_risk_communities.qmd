@@ -39,10 +39,6 @@ UNCOMMENT -->
 
 Identifying communities with a high risk of shortage using a multifactor vulnerability score
 
-Additional resources:
-
-- [Project webpage](http://arcg.is/19OXPW)
-
 ### Additional Resources
 
-NA
+- [Project webpage](http://arcg.is/19OXPW)

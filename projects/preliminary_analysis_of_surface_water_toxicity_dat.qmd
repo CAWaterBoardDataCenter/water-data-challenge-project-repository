@@ -41,6 +41,5 @@ The full dataset or a subset of the data is read in as a CSV file, but must firs
 
 ### Additional Resources
 
-- [See slides ]()
 - [Presentation: Preliminary Analysis of Surface Water Toxicity Dataset](http://www.waterboards.ca.gov/resources/data_databases/docs/prelimanalysis_pres.mp4#)
 - [Slides: Preliminary Analysis of Surface Water Toxicity Dataset](http://www.waterboards.ca.gov/resources/data_databases/docs/prelimanalysis.pdf#)

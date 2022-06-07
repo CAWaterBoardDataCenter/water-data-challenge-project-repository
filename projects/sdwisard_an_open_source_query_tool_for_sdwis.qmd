@@ -45,4 +45,4 @@ The sdwisard R package is an easy-to-use, open-source query tool for California 
 
 - [Project Github](https://github.com/CAopenwater/sdwisard)
 
-- [2 minute video explanation](https://youtu.be/BlXSTWCk5O8)
+- [Overview Video](https://youtu.be/BlXSTWCk5O8)

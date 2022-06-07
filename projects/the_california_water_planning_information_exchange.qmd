@@ -39,5 +39,5 @@ Based on Data Basin technology, the Conservation Biology Institute (CBI) recentl
 
 ### Additional Resources
 
-- [Slides](https://drive.google.com/open?id=0B5n4IeHrVBinS1FyeEJkMHdaZ2c)
-- <cadwr.databasin.org>
+- [Slides](https://drive.google.com/file/d/0B5n4IeHrVBinS1FyeEJkMHdaZ2c/view?resourcekey=0-YQ2WWx4xoOPwoTJXYIMr9Q)
+- <https://cadwr.databasin.org/>

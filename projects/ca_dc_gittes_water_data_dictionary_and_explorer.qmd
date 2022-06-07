@@ -55,6 +55,5 @@ Charles Fishman, in a New York Times op-ed commented that “Water is Broken. Da
 
 ### Additional Resources
 
-- [Slides](NA)
 - <http://public.tableau.com/views/GITTES-viz/Dashboard2?:showVizHome=no#1>
 - <https://drive.google.com/open?id=0B5n4IeHrVBinN19LbklYa0NRaUU>
