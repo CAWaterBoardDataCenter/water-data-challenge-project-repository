@@ -1,8 +1,15 @@
-# load packages ----
-library(here)
-library(servr)
+# load packages -----------------------------------------------------------
+package_list <- c('here', 'servr')
+## install packages if not already loaded
+for (pkg in package_list) {
+    if (!require(pkg, character.only = TRUE)) {
+        install.packages(pkg)
+        library(pkg, character.only = TRUE)
+    }
+}
 
-# create markdown files ----
+
+# create markdown files ---------------------------------------------------
 ## (from info in project repository spreadsheet and template markdown files)
 source(here(
   "02_render_markdown_files",
@@ -10,15 +17,18 @@ source(here(
 ))
 rm(list = ls())
 
-# render site ----
+
+# render site -------------------------------------------------------------
 shell("quarto render")
 
-# edit html files ----
+
+# edit html files ---------------------------------------------------------
 source(here(
   "02_render_markdown_files",
   "2_clean-html-files.R"
 ))
 
-# (optional) preview site ----
+
+# preview site ------------------------------------------------------------
 httd(here("docs")) # start the local web server
 daemon_stop(1) # stop the local web server
