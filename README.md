@@ -49,10 +49,8 @@ So, to add new projects to the repository, or edit the information about existin
 -   Runs the `02_render_markdown_files/2_clean-html-files.R` script to do some minor editing of the rendered html files
 
 -   Previews the site by running a local web server
-
-Any of these parts can also be run individually as needed.
-
-More general instructions for rendering quarto websites with other tools / methods are available on the [quarto website](https://quarto.org/)
+<br/><br/>Any of these parts can also be run individually as needed.
+<br/><br/>More general instructions for rendering quarto websites with other tools / methods are available on the [quarto website](https://quarto.org/)
 
 6.  If the website preview looks correct, push the changes to the GitHub repository. This will automatically update the online version of the site.
 
