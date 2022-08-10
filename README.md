@@ -14,7 +14,7 @@ In order to use the workflow described below, you'll need to install the followi
 
 -   [R Programming Language](https://cloud.r-project.org/)
 
--   [RStudio IDE (optional)](https://www.rstudio.com/products/rstudio/)
+-   [RStudio IDE](https://www.rstudio.com/products/rstudio/)
 
 ### Overview of Website Maintenance Workflow
 
@@ -40,7 +40,11 @@ So, to add new projects to the repository, or edit the information about existin
 
 4.  (Optional) You can add new 'main' pages to the website by creating new `.qmd` files in the main project directory (see the `index.qmd` and `about.qmd` files as examples). Then add references to these files in the `_quarto.yml` file (again following the example of the way it's done for the `index.qmd` and `about.qmd` files).
 
-5.  Build the new version of the website by running the `_build-site.R` script. This script:
+5.  Build the new version of the website by running the `_build-site.R` script. To run the script, open the `water-data-challenge_projects-website.Rproj` file (which opens a new instance of RStudio), then open the `_build-site.R` file (you can open the file from the 'Files' tab in the lower right pane of the RStudio window), then click on the `Source` button, as shown here: ![](03_images%5Crstudio_source_script.png)
+
+When the script has finished running, a preview of the site will be available in the 'Viewer' tab in the lower right pane of the RStudio window. You can click the 'Show in new window' button to open the preview in a separate browser window: ![](03_images%5Crstudio_site_preview.png)
+
+The `_build-site.R` script:
 
     -   Runs the `02_render_markdown_files/1_render-markdown-files.R` script to build markdown files based on the information in the project repository workbook and the template markdown files (the resulting markdown files are saved in the `projects` folder, and any previous versions of the markdown files in that folder are overwritten)
 
@@ -48,20 +52,20 @@ So, to add new projects to the repository, or edit the information about existin
 
     -   Runs the `02_render_markdown_files/2_clean-html-files.R` script to do some minor editing of the rendered html files
 
-    -   (Optional) Previews the site by running a local web server
+    -   Previews the site by running a local web server
 
     Any of these parts can also be run individually as needed.
 
     More general instructions for rendering quarto websites with other tools / methods are available on the [quarto website](https://quarto.org/)
 
-6.  Push the changes to the GitHub repository.
+6.  If the website preview looks correct, push the changes to the GitHub repository. This will automatically update the online version of the site.
 
     -   Note: if you wanted to create a new website in a different repository, you'd need to follow [these instructions](https://quarto.org/docs/websites/publishing-websites.html#github-pages) to set up GitHub pages correctly. But you can ignore this if you're just making updates to this existing site.
 
 ### Additional Notes
 
-- The `_quarto.yml` is used to specify high-level information about how the site is built, e.g., what input files to use, the output directory for rendered files, navigation bar specifications, site-wide formatting, etc.
+-   The `_quarto.yml` is used to specify high-level information about how the site is built, e.g., what input files to use, the output directory for rendered files, navigation bar specifications, site-wide formatting, etc.
 
-- The home page for this site is created from the `index.qmd` file - this file can be edited directly, since it is not overwritten by the process used to rebuild the site; the `listing:` portion of the header info in this file specifies how the projects are listed on the homepage
+-   The home page for this site is created from the `index.qmd` file - this file can be edited directly, since it is not overwritten by the process used to rebuild the site; the `listing:` portion of the header info in this file specifies how the projects are listed on the homepage
 
-- The `custom.scss` file specifies some custom formatting for the site (i.e., it overrides some of the default css)
+-   The `custom.scss` file specifies some custom formatting for the site (i.e., it overrides some of the default css)
