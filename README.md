@@ -1,5 +1,3 @@
-**\### This is a draft \###**
-
 ## Water Data Challenge Project Repository Website - Source Files
 
 This repository contains the source files used to build a website that serves as a repository of projects submitted to the [California Water Data Challenge](https://waterchallenge.data.ca.gov/) in previous events. The website is available at: <https://cawaterboarddatacenter.github.io/water-data-challenge-project-repository/>
@@ -49,6 +47,7 @@ So, to add new projects to the repository, or edit the information about existin
 -   Runs the `02_render_markdown_files/2_clean-html-files.R` script to do some minor editing of the rendered html files
 
 -   Previews the site by running a local web server
+<br/><br/>Note that all R scripts use the pacman::p_load() function instead of the library() function to load packages. This checks whether each package is installed on the user's computer, and attempts to install it if not. Otherwise it functions the same as calling library().
 <br/><br/>Any of these parts can also be run individually as needed.
 <br/><br/>More general instructions for rendering quarto websites with other tools / methods are available on the [quarto website](https://quarto.org/)
 
