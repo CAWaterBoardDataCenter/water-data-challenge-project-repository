@@ -4,11 +4,24 @@
 
 
 # load packages -----------------------------------------------------------
-library(tidyverse)
-library(here)
-library(janitor)
-# library(quarto)
-library(readxl)
+# package_list <- c('here', 'tidyverse', 'janitor', 'readxl')
+# ## check whether packages are installed, download and install if not 
+# for (pkg in package_list) {
+#     if (!require(pkg, character.only = TRUE)) {
+#         install.packages(pkg)
+#         library(pkg, character.only = TRUE)
+#     }
+# }
+
+## use pacman package ----
+if (!require(pacman)) {install.packages(pacman)}
+
+### using p_load() instead of library() to check whether packages are installed 
+### before loading, and download / install if not 
+p_load(here)
+p_load(tidyverse)
+p_load(janitor)
+p_load(readxl)
 
 
 

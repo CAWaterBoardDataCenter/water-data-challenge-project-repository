@@ -4,8 +4,13 @@
 
 
 # load packages -----------------------------------------------------------
-library(tidyverse)
-library(here)
+## use pacman package
+if (!require(pacman)) {install.packages(pacman)}
+
+### using p_load() instead of library() to check whether packages are installed 
+### before loading, and download / install if not 
+p_load(here)
+p_load(tidyverse)
 
 
 

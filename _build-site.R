@@ -1,12 +1,11 @@
 # load packages -----------------------------------------------------------
-package_list <- c('here', 'servr')
-## install packages if not already loaded
-for (pkg in package_list) {
-    if (!require(pkg, character.only = TRUE)) {
-        install.packages(pkg)
-        library(pkg, character.only = TRUE)
-    }
-}
+## use the pacman package
+if (!require(pacman)) {install.packages(pacman)}
+
+## using p_load() instead of library() to check whether packages are installed
+## before loading, and download / install if not
+p_load(here)
+p_load(servr)
 
 
 # create markdown files ---------------------------------------------------
@@ -31,4 +30,4 @@ source(here(
 
 # preview site ------------------------------------------------------------
 httd(here("docs")) # start the local web server
-daemon_stop(1) # stop the local web server
+# daemon_stop(1) # stop the local web server
