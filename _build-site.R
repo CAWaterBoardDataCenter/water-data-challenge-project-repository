@@ -1,6 +1,6 @@
 # load packages -----------------------------------------------------------
 ## use the pacman package
-if (!require(pacman)) {install.packages(pacman)}
+if (!require(pacman)) {install.packages('pacman'); library(pacman)}
 
 ## using p_load() instead of library() to check whether packages are installed
 ## before loading, and download / install if not
